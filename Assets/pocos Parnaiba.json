@@ -1,0 +1,4301 @@
+[
+    {
+        "POCO": "1TB  0001  MA",
+        "IDENTIFICADOR": "SB23T24SE32U50A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-7.42381 (   -7  25 25.7)",
+        "LONGITUDE": "-46.09992 (  -46   5 59.7)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9179240.8S  378613.9W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "BALSAS",
+        "CODIGO POCO": "000518",
+        "B.A.P": "300.0",
+        "P.F.SONDADOR": "2128.0",
+        "PROF.MX.PERF.": "2121.3",
+        "METROS PERF.": "2128.0",
+        "MAIOR PROF.": "2128.0",
+        "INICIO": "23/01/56",
+        "TERMINO": "18/03/57",
+        "DATA LIB.SONDA": "01/04/57",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00011",
+        "SEDOC": "0009",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F RIACHA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "TESTA BRANCA.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9179240.8S    378613.9W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9179240.8S   378613.9W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1TB  0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "300.0",
+                "BASE": "495.0",
+                "BASE COTA": "-192."
+            },
+            "F MOTUCA ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "300.0",
+                "BASE": "40.0",
+                "BASE COTA": "263."
+            },
+            "F PEDFOG ": {
+                "TOPO": "40.0",
+                "TOPO COTA": "263.0",
+                "BASE": "192.0",
+                "BASE COTA": "111."
+            },
+            "F PIAUI  ": {
+                "TOPO": "192.0",
+                "TOPO COTA": "111.0",
+                "BASE": "495.0",
+                "BASE COTA": "-192."
+            },
+            "G CANIND ": {
+                "TOPO": "495.0",
+                "TOPO COTA": "-192.0",
+                "BASE": "1695.0",
+                "BASE COTA": "-1392."
+            },
+            "F POTI   ": {
+                "TOPO": "495.0",
+                "TOPO COTA": "-192.0",
+                "BASE": "728.0",
+                "BASE COTA": "-425."
+            },
+            "F LONGA  ": {
+                "TOPO": "728.0",
+                "TOPO COTA": "-425.0",
+                "BASE": "833.0",
+                "BASE COTA": "-530."
+            },
+            "F CABECA ": {
+                "TOPO": "833.0",
+                "TOPO COTA": "-530.0",
+                "BASE": "948.0",
+                "BASE COTA": "-645."
+            },
+            "F PIMENT ": {
+                "TOPO": "948.0",
+                "TOPO COTA": "-645.0",
+                "BASE": "1485.0",
+                "BASE COTA": "-1182."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1485.0",
+                "TOPO COTA": "-1182.0",
+                "BASE": "1695.0",
+                "BASE COTA": "-1392."
+            },
+            "G SGRAND ": {
+                "TOPO": "1695.0",
+                "TOPO COTA": "-1392.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1695.0",
+                "TOPO COTA": "-1392.0",
+                "BASE": "1896.0",
+                "BASE COTA": "-1593."
+            },
+            "F TIANGU ": {
+                "TOPO": "1896.0",
+                "TOPO COTA": "-1593.0",
+                "BASE": "2026.0",
+                "BASE COTA": "-1723."
+            },
+            "F IPU   ": {
+                "TOPO": "2026.0",
+                "TOPO COTA": "-1723.0",
+                "BASE": "2076.0",
+                "BASE COTA": "-1773."
+            },
+            "F RIACHA ": {
+                "TOPO": "2076.0",
+                "TOPO COTA": "-1773.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1MA  0001  PI",
+        "IDENTIFICADOR": "SB23F33NE66A83D",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-4.82717 (   -4  49 37.8)",
+        "LONGITUDE": "-42.79911 (  -42  47 56.8)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9466039.8S  744110.1W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "PI",
+        "MUNICIPIO": "JOSE FREITAS",
+        "CODIGO POCO": "001328",
+        "B.A.P": "116.0",
+        "P.F.SONDADOR": "2177.6",
+        "PROF.MX.PERF.": "2178.0",
+        "METROS PERF.": "2178.0",
+        "MAIOR PROF.": "2178.0",
+        "INICIO": "05/03/61",
+        "TERMINO": "05/01/62",
+        "DATA LIB.SONDA": "27/01/62",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00131",
+        "SEDOC": "0045",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "MERUOCA.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9466039.8S    744110.1W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9466039.8S   744110.1W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1MA  0001  PI": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "116.0",
+                "BASE": "200.0",
+                "BASE COTA": "-81."
+            },
+            "F PIAUI  ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "116.0",
+                "BASE": "200.0",
+                "BASE COTA": "-81."
+            },
+            "G CANIND ": {
+                "TOPO": "200.0",
+                "TOPO COTA": "-81.0",
+                "BASE": "1534.0",
+                "BASE COTA": "-1415."
+            },
+            "F POTI   ": {
+                "TOPO": "200.0",
+                "TOPO COTA": "-81.0",
+                "BASE": "423.0",
+                "BASE COTA": "-304."
+            },
+            "F LONGA  ": {
+                "TOPO": "423.0",
+                "TOPO COTA": "-304.0",
+                "BASE": "545.0",
+                "BASE COTA": "-426."
+            },
+            "F CABECA ": {
+                "TOPO": "545.0",
+                "TOPO COTA": "-426.0",
+                "BASE": "1118.0",
+                "BASE COTA": "-999."
+            },
+            "F PIMENT ": {
+                "TOPO": "1118.0",
+                "TOPO COTA": "-999.0",
+                "BASE": "1387.0",
+                "BASE COTA": "-1268."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1387.0",
+                "TOPO COTA": "-1268.0",
+                "BASE": "1534.0",
+                "BASE COTA": "-1415."
+            },
+            "G SGRAND ": {
+                "TOPO": "1534.0",
+                "TOPO COTA": "-1415.0",
+                "BASE": "2175.0",
+                "BASE COTA": "-2056."
+            },
+            "F JAICOS ": {
+                "TOPO": "1534.0",
+                "TOPO COTA": "-1415.0",
+                "BASE": "1828.0",
+                "BASE COTA": "-1709."
+            },
+            "F TIANGU ": {
+                "TOPO": "1828.0",
+                "TOPO COTA": "-1709.0",
+                "BASE": "2104.0",
+                "BASE COTA": "-1985."
+            },
+            "F IPU   ": {
+                "TOPO": "2104.0",
+                "TOPO COTA": "-1985.0",
+                "BASE": "2175.0",
+                "BASE COTA": "-2056."
+            },
+            "B    EMBASA ": {
+                "TOPO": "2175.0",
+                "TOPO COTA": "-2056.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1FL  0001  PI",
+        "IDENTIFICADOR": "SB23R13SE65S24B",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-6.45811 (   -6  27 29.2)",
+        "LONGITUDE": "-42.80381 (  -42  48 13.7)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9285622.7S  742908.9W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "PI",
+        "MUNICIPIO": "FLORIANO",
+        "CODIGO POCO": "001622",
+        "B.A.P": "287.0",
+        "P.F.SONDADOR": "2405.2",
+        "PROF.MX.PERF.": "2361.6",
+        "METROS PERF.": "2405.2",
+        "MAIOR PROF.": "2405.2",
+        "INICIO": "12/05/62",
+        "TERMINO": "19/02/63",
+        "DATA LIB.SONDA": "20/09/80",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00152",
+        "SEDOC": "0053",
+        "SONDA": "SC24",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "FLORIANO.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO COM INDICACAO DE GAS.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9285622.7S    742908.9W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9285622.7S   742908.9W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1FL  0001  PI": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "287.0",
+                "BASE": "110.0",
+                "BASE COTA": "180."
+            },
+            "F PIAUI  ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "287.0",
+                "BASE": "110.0",
+                "BASE COTA": "180."
+            },
+            "G CANIND ": {
+                "TOPO": "110.0",
+                "TOPO COTA": "180.0",
+                "BASE": "1544.0",
+                "BASE COTA": "-1254."
+            },
+            "F POTI   ": {
+                "TOPO": "110.0",
+                "TOPO COTA": "180.0",
+                "BASE": "387.0",
+                "BASE COTA": "-97."
+            },
+            "F LONGA  ": {
+                "TOPO": "387.0",
+                "TOPO COTA": "-97.0",
+                "BASE": "493.0",
+                "BASE COTA": "-203."
+            },
+            "F CABECA ": {
+                "TOPO": "493.0",
+                "TOPO COTA": "-203.0",
+                "BASE": "840.0",
+                "BASE COTA": "-550."
+            },
+            "F PIMENT ": {
+                "TOPO": "840.0",
+                "TOPO COTA": "-550.0",
+                "BASE": "1361.0",
+                "BASE COTA": "-1071."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1361.0",
+                "TOPO COTA": "-1071.0",
+                "BASE": "1544.0",
+                "BASE COTA": "-1254."
+            },
+            "G SGRAND ": {
+                "TOPO": "1544.0",
+                "TOPO COTA": "-1254.0",
+                "BASE": "2374.0",
+                "BASE COTA": "-2084."
+            },
+            "F JAICOS ": {
+                "TOPO": "1544.0",
+                "TOPO COTA": "-1254.0",
+                "BASE": "1983.0",
+                "BASE COTA": "-1693."
+            },
+            "F TIANGU ": {
+                "TOPO": "1983.0",
+                "TOPO COTA": "-1693.0",
+                "BASE": "2220.0",
+                "BASE COTA": "-1930."
+            },
+            "F IPU   ": {
+                "TOPO": "2220.0",
+                "TOPO COTA": "-1930.0",
+                "BASE": "2374.0",
+                "BASE COTA": "-2084."
+            },
+            "B    EMBASA ": {
+                "TOPO": "2374.0",
+                "TOPO COTA": "-2084.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1CI  0001  MA",
+        "IDENTIFICADOR": "SA23O43SO97V27A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-2.99800 (   -2  59 52.8)",
+        "LONGITUDE": "-45.40814 (  -45  24 29.3)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9668615.3S  454643.6W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "PINHEIRO",
+        "CODIGO POCO": "005891",
+        "B.A.P": "53.0",
+        "P.F.SONDADOR": "1442.0",
+        "PROF.MX.PERF.": "1442.0",
+        "METROS PERF.": "1442.0",
+        "MAIOR PROF.": "1442.0",
+        "INICIO": "28/09/79",
+        "TERMINO": "25/10/79",
+        "DATA LIB.SONDA": "31/10/79",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "20/08/79",
+        "CADASTRO": "00392",
+        "SEDOC": "0217",
+        "SONDA": "SC25",
+        "FORMACAO P.F.": "EMBASA",
+        "NOME": "COCALINHO.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9668615.3S    454643.6W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9668615.3S   454643.6W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1CI  0001  MA": {
+            "C      ALB.MED. ": {
+                "TOPO": "5.0",
+                "TOPO COTA": "53.0",
+                "BASE": "846.0",
+                "BASE COTA": "-788."
+            },
+            "C      ALB.INF. ": {
+                "TOPO": "5.0",
+                "TOPO COTA": "53.0",
+                "BASE": "846.0",
+                "BASE COTA": "-788."
+            },
+            "F ITAPEC ": {
+                "TOPO": "5.0",
+                "TOPO COTA": "53.0",
+                "BASE": "729.0",
+                "BASE COTA": "-671."
+            },
+            "F CODO   ": {
+                "TOPO": "729.0",
+                "TOPO COTA": "-671.0",
+                "BASE": "882.0",
+                "BASE COTA": "-824."
+            },
+            "B  A.ALAGOA ": {
+                "TOPO": "846.0",
+                "TOPO COTA": "-788.0",
+                "BASE": "890.5",
+                "BASE COTA": "-832."
+            },
+            "F GRAJAU ": {
+                "TOPO": "882.0",
+                "TOPO COTA": "-824.0",
+                "BASE": "900.0",
+                "BASE COTA": "-842."
+            },
+            "Q  PALEOZOI ": {
+                "TOPO": "890.5",
+                "TOPO COTA": "-832.5",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F MOSQUI ": {
+                "TOPO": "900.0",
+                "TOPO COTA": "-842.0",
+                "BASE": "909.0",
+                "BASE COTA": "-851."
+            },
+            "G CANIND ": {
+                "TOPO": "909.0",
+                "TOPO COTA": "-851.0",
+                "BASE": "1210.0",
+                "BASE COTA": "-1152."
+            },
+            "F PIMENT ": {
+                "TOPO": "909.0",
+                "TOPO COTA": "-851.0",
+                "BASE": "1100.0",
+                "BASE COTA": "-1042."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1100.0",
+                "TOPO COTA": "-1042.0",
+                "BASE": "1210.0",
+                "BASE COTA": "-1152."
+            },
+            "G SGRAND ": {
+                "TOPO": "1210.0",
+                "TOPO COTA": "-1152.0",
+                "BASE": "1430.0",
+                "BASE COTA": "-1372."
+            },
+            "F JAICOS ": {
+                "TOPO": "1210.0",
+                "TOPO COTA": "-1152.0",
+                "BASE": "1305.0",
+                "BASE COTA": "-1247."
+            },
+            "F TIANGU ": {
+                "TOPO": "1305.0",
+                "TOPO COTA": "-1247.0",
+                "BASE": "1413.0",
+                "BASE COTA": "-1355."
+            },
+            "F IPU   ": {
+                "TOPO": "1413.0",
+                "TOPO COTA": "-1355.0",
+                "BASE": "1430.0",
+                "BASE COTA": "-1372."
+            },
+            "B    EMBASA ": {
+                "TOPO": "1430.0",
+                "TOPO COTA": "-1372.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1RB  0001  MA",
+        "IDENTIFICADOR": "SC23B22NE23I80A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-8.02958 (   -8   1 46.5)",
+        "LONGITUDE": "-46.07992 (  -46   4 47.7)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9112265.1S  380991.1W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "BALSAS",
+        "CODIGO POCO": "001932",
+        "B.A.P": "575.0",
+        "P.F.SONDADOR": "1836.5",
+        "PROF.MX.PERF.": "1836.3",
+        "METROS PERF.": "1836.5",
+        "MAIOR PROF.": "1836.5",
+        "INICIO": "02/12/63",
+        "TERMINO": "06/04/64",
+        "DATA LIB.SONDA": "06/04/64",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00183",
+        "SEDOC": "0062",
+        "SONDA": "SC24",
+        "FORMACAO P.F.": "F TIANGU",
+        "NOME": "RIBEIRAOZINHO.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9112265.1S    380991.1W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9112265.1S   380991.1W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1RB  0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "575.0",
+                "BASE": "345.0",
+                "BASE COTA": "233."
+            },
+            "F PEDFOG ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "575.0",
+                "BASE": "65.0",
+                "BASE COTA": "513."
+            },
+            "F PIAUI  ": {
+                "TOPO": "65.0",
+                "TOPO COTA": "513.0",
+                "BASE": "345.0",
+                "BASE COTA": "233."
+            },
+            "G CANIND ": {
+                "TOPO": "345.0",
+                "TOPO COTA": "233.0",
+                "BASE": "1515.0",
+                "BASE COTA": "-937."
+            },
+            "F POTI   ": {
+                "TOPO": "345.0",
+                "TOPO COTA": "233.0",
+                "BASE": "618.0",
+                "BASE COTA": "-40."
+            },
+            "F LONGA  ": {
+                "TOPO": "618.0",
+                "TOPO COTA": "-40.0",
+                "BASE": "810.0",
+                "BASE COTA": "-232."
+            },
+            "F CABECA ": {
+                "TOPO": "810.0",
+                "TOPO COTA": "-232.0",
+                "BASE": "890.0",
+                "BASE COTA": "-312."
+            },
+            "F PIMENT ": {
+                "TOPO": "890.0",
+                "TOPO COTA": "-312.0",
+                "BASE": "1294.0",
+                "BASE COTA": "-716."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1294.0",
+                "TOPO COTA": "-716.0",
+                "BASE": "1515.0",
+                "BASE COTA": "-937."
+            },
+            "G SGRAND ": {
+                "TOPO": "1515.0",
+                "TOPO COTA": "-937.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1515.0",
+                "TOPO COTA": "-937.0",
+                "BASE": "1758.0",
+                "BASE COTA": "-1180."
+            },
+            "F TIANGU ": {
+                "TOPO": "1758.0",
+                "TOPO COTA": "-1180.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2CP  0001  MA",
+        "IDENTIFICADOR": "SB23D43NE16B52A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-4.76378 (   -4  45 49.6)",
+        "LONGITUDE": "-44.29698 (  -44  17 49.1)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9473400.5S  577964.0W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "CODO",
+        "CODIGO POCO": "013606",
+        "B.A.P": "107.0",
+        "P.F.SONDADOR": "3423.0",
+        "PROF.MX.PERF.": "3426.0",
+        "METROS PERF.": "3426.0",
+        "MAIOR PROF.": "3426.0",
+        "INICIO": "04/07/87",
+        "TERMINO": "27/10/87",
+        "DATA LIB.SONDA": "03/11/87",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "26/03/87",
+        "CADASTRO": "00582",
+        "SEDOC": "0396",
+        "SONDA": "SC99",
+        "FORMACAO P.F.": "EMBASA",
+        "NOME": "CAPINZAL.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO COM INDICACAO DE GAS.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9473400.5S    577964.0W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9473400.5S   577964.0W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "30/11/87   -  SECO COM INDICACAO DE GAS.": "- RECLASSIFICACAO",
+        "2CP  0001  MA": {
+            "F ITAPEC ": {
+                "TOPO": "5.0",
+                "TOPO COTA": "107.0",
+                "BASE": "35.0",
+                "BASE COTA": "77."
+            },
+            "F CODO   ": {
+                "TOPO": "35.0",
+                "TOPO COTA": "77.0",
+                "BASE": "110.0",
+                "BASE COTA": "2."
+            },
+            "G MEARIM ": {
+                "TOPO": "110.0",
+                "TOPO COTA": "2.0",
+                "BASE": "231.0",
+                "BASE COTA": "-119."
+            },
+            "F CORDA  ": {
+                "TOPO": "110.0",
+                "TOPO COTA": "2.0",
+                "BASE": "154.0",
+                "BASE COTA": "-42."
+            },
+            "F PASBON ": {
+                "TOPO": "154.0",
+                "TOPO COTA": "-42.0",
+                "BASE": "231.0",
+                "BASE COTA": "-119."
+            },
+            "G BALSAS ": {
+                "TOPO": "231.0",
+                "TOPO COTA": "-119.0",
+                "BASE": "1168.0",
+                "BASE COTA": "-1056."
+            },
+            "F SAMBAI ": {
+                "TOPO": "231.0",
+                "TOPO COTA": "-119.0",
+                "BASE": "402.0",
+                "BASE COTA": "-290."
+            },
+            "F MOTUCA ": {
+                "TOPO": "402.0",
+                "TOPO COTA": "-290.0",
+                "BASE": "696.0",
+                "BASE COTA": "-584."
+            },
+            "F PEDFOG ": {
+                "TOPO": "696.0",
+                "TOPO COTA": "-584.0",
+                "BASE": "908.0",
+                "BASE COTA": "-796."
+            },
+            "F PIAUI  ": {
+                "TOPO": "908.0",
+                "TOPO COTA": "-796.0",
+                "BASE": "1168.0",
+                "BASE COTA": "-1056."
+            },
+            "G CANIND ": {
+                "TOPO": "1168.0",
+                "TOPO COTA": "-1056.0",
+                "BASE": "2613.0",
+                "BASE COTA": "-2501."
+            },
+            "F POTI   ": {
+                "TOPO": "1168.0",
+                "TOPO COTA": "-1056.0",
+                "BASE": "1382.0",
+                "BASE COTA": "-1270."
+            },
+            "F LONGA  ": {
+                "TOPO": "1382.0",
+                "TOPO COTA": "-1270.0",
+                "BASE": "1666.0",
+                "BASE COTA": "-1554."
+            },
+            "F CABECA ": {
+                "TOPO": "1666.0",
+                "TOPO COTA": "-1554.0",
+                "BASE": "2006.0",
+                "BASE COTA": "-1894."
+            },
+            "F PIMENT ": {
+                "TOPO": "2006.0",
+                "TOPO COTA": "-1894.0",
+                "BASE": "2476.0",
+                "BASE COTA": "-2364."
+            },
+            "F ITAIM  ": {
+                "TOPO": "2476.0",
+                "TOPO COTA": "-2364.0",
+                "BASE": "2613.0",
+                "BASE COTA": "-2501."
+            },
+            "G SGRAND ": {
+                "TOPO": "2613.0",
+                "TOPO COTA": "-2501.0",
+                "BASE": "3408.0",
+                "BASE COTA": "-3296."
+            },
+            "F JAICOS ": {
+                "TOPO": "2613.0",
+                "TOPO COTA": "-2501.0",
+                "BASE": "2848.0",
+                "BASE COTA": "-2736."
+            },
+            "F TIANGU ": {
+                "TOPO": "2848.0",
+                "TOPO COTA": "-2736.0",
+                "BASE": "3055.0",
+                "BASE COTA": "-2943."
+            },
+            "F IPU   ": {
+                "TOPO": "3055.0",
+                "TOPO COTA": "-2943.0",
+                "BASE": "3408.0",
+                "BASE COTA": "-3296."
+            },
+            "B    EMBASA ": {
+                "TOPO": "3408.0",
+                "TOPO COTA": "-3296.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1FM  0001  MA",
+        "IDENTIFICADOR": "SC23B24NE02E97D",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-8.25250 (   -8  15  9.0)",
+        "LONGITUDE": "-46.08806 (  -46   5 17.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9087614.2S  380160.3W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "TEN  FRAGOSO",
+        "CODIGO POCO": "002135",
+        "B.A.P": "485.0",
+        "P.F.SONDADOR": "1821.3",
+        "PROF.MX.PERF.": "1823.3",
+        "METROS PERF.": "1823.3",
+        "MAIOR PROF.": "1823.8",
+        "INICIO": "18/10/64",
+        "TERMINO": "29/12/64",
+        "DATA LIB.SONDA": "29/12/64",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00197",
+        "SEDOC": "0061",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F RIACHA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "FAZENDA MEIOS.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9087614.2S    380160.3W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9087614.2S   380160.3W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1FM  0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "485.0",
+                "BASE": "132.0",
+                "BASE COTA": "356."
+            },
+            "F PIAUI  ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "485.0",
+                "BASE": "132.0",
+                "BASE COTA": "356."
+            },
+            "G CANIND ": {
+                "TOPO": "132.0",
+                "TOPO COTA": "356.0",
+                "BASE": "1287.0",
+                "BASE COTA": "-799."
+            },
+            "F POTI   ": {
+                "TOPO": "132.0",
+                "TOPO COTA": "356.0",
+                "BASE": "434.0",
+                "BASE COTA": "54."
+            },
+            "F LONGA  ": {
+                "TOPO": "434.0",
+                "TOPO COTA": "54.0",
+                "BASE": "556.0",
+                "BASE COTA": "-68."
+            },
+            "F CABECA ": {
+                "TOPO": "556.0",
+                "TOPO COTA": "-68.0",
+                "BASE": "668.0",
+                "BASE COTA": "-180."
+            },
+            "F PIMENT ": {
+                "TOPO": "668.0",
+                "TOPO COTA": "-180.0",
+                "BASE": "1110.0",
+                "BASE COTA": "-622."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1110.0",
+                "TOPO COTA": "-622.0",
+                "BASE": "1287.0",
+                "BASE COTA": "-799."
+            },
+            "G SGRAND ": {
+                "TOPO": "1287.0",
+                "TOPO COTA": "-799.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1287.0",
+                "TOPO COTA": "-799.0",
+                "BASE": "1564.0",
+                "BASE COTA": "-1076."
+            },
+            "F TIANGU ": {
+                "TOPO": "1564.0",
+                "TOPO COTA": "-1076.0",
+                "BASE": "1683.0",
+                "BASE COTA": "-1195."
+            },
+            "F IPU   ": {
+                "TOPO": "1683.0",
+                "TOPO COTA": "-1195.0",
+                "BASE": "1800.0",
+                "BASE COTA": "-1312."
+            },
+            "F RIACHA ": {
+                "TOPO": "1800.0",
+                "TOPO COTA": "-1312.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1MD  0001  MA",
+        "IDENTIFICADOR": "SB23P23SE05T39B",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-6.38333 (   -6  22 60.0)",
+        "LONGITUDE": "-44.30000 (  -44  18   .0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9294360.2S  577417.7W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "MIRADOR",
+        "CODIGO POCO": "000612",
+        "B.A.P": "229.0",
+        "P.F.SONDADOR": "2827.5",
+        "PROF.MX.PERF.": "2827.5",
+        "METROS PERF.": "2827.5",
+        "MAIOR PROF.": "2827.5",
+        "INICIO": "27/06/57",
+        "TERMINO": "26/04/58",
+        "DATA LIB.SONDA": "27/04/58",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00022",
+        "SEDOC": "0014",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F MIRADO",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "MIRADOR.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9294360.2S    577417.7W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9294360.2S   577417.7W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1MD  0001  MA": {
+            "G MEARIM ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "229.0",
+                "BASE": "27.0",
+                "BASE COTA": "205."
+            },
+            "F CORDA  ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "229.0",
+                "BASE": "27.0",
+                "BASE COTA": "205."
+            },
+            "G BALSAS ": {
+                "TOPO": "27.0",
+                "TOPO COTA": "205.0",
+                "BASE": "520.0",
+                "BASE COTA": "-288."
+            },
+            "F MOTUCA ": {
+                "TOPO": "27.0",
+                "TOPO COTA": "205.0",
+                "BASE": "66.0",
+                "BASE COTA": "166."
+            },
+            "F PEDFOG ": {
+                "TOPO": "66.0",
+                "TOPO COTA": "166.0",
+                "BASE": "174.0",
+                "BASE COTA": "58."
+            },
+            "F PIAUI  ": {
+                "TOPO": "174.0",
+                "TOPO COTA": "58.0",
+                "BASE": "520.0",
+                "BASE COTA": "-288."
+            },
+            "G CANIND ": {
+                "TOPO": "520.0",
+                "TOPO COTA": "-288.0",
+                "BASE": "1920.0",
+                "BASE COTA": "-1688."
+            },
+            "F POTI   ": {
+                "TOPO": "520.0",
+                "TOPO COTA": "-288.0",
+                "BASE": "910.0",
+                "BASE COTA": "-678."
+            },
+            "F LONGA  ": {
+                "TOPO": "910.0",
+                "TOPO COTA": "-678.0",
+                "BASE": "1048.0",
+                "BASE COTA": "-816."
+            },
+            "F CABECA ": {
+                "TOPO": "1048.0",
+                "TOPO COTA": "-816.0",
+                "BASE": "1238.0",
+                "BASE COTA": "-1006."
+            },
+            "F PIMENT ": {
+                "TOPO": "1238.0",
+                "TOPO COTA": "-1006.0",
+                "BASE": "1764.0",
+                "BASE COTA": "-1532."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1764.0",
+                "TOPO COTA": "-1532.0",
+                "BASE": "1920.0",
+                "BASE COTA": "-1688."
+            },
+            "G SGRAND ": {
+                "TOPO": "1920.0",
+                "TOPO COTA": "-1688.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1920.0",
+                "TOPO COTA": "-1688.0",
+                "BASE": "2162.0",
+                "BASE COTA": "-1930."
+            },
+            "F TIANGU ": {
+                "TOPO": "2162.0",
+                "TOPO COTA": "-1930.0",
+                "BASE": "2550.0",
+                "BASE COTA": "-2318."
+            },
+            "F IPU   ": {
+                "TOPO": "2550.0",
+                "TOPO COTA": "-2318.0",
+                "BASE": "2667.0",
+                "BASE COTA": "-2435."
+            },
+            "F MIRADO ": {
+                "TOPO": "2667.0",
+                "TOPO COTA": "-2435.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1VG  0001R MA",
+        "IDENTIFICADOR": "SB23T14SE10P35BR",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-7.39583 (   -7  23 45.0)",
+        "LONGITUDE": "-46.62361 (  -46  37 25.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9182156.7S  320795.4W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "RIACHAO",
+        "CODIGO POCO": "000383",
+        "B.A.P": "385.5",
+        "P.F.SONDADOR": "2887.0",
+        "PROF.MX.PERF.": "2882.4",
+        "METROS PERF.": "2887.0",
+        "MAIOR PROF.": "2887.0",
+        "INICIO": "09/07/53",
+        "TERMINO": "01/06/55",
+        "DATA LIB.SONDA": "22/06/55",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00006",
+        "SEDOC": "0006",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F RIACHA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "VEREDA GRANDE.1R",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9182156.7S    320795.4W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9182156.7S   320795.4W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1VG  0001R MA": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "385.1",
+                "BASE": "549.0",
+                "BASE COTA": "-160."
+            },
+            "F MOTUCA ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "385.1",
+                "BASE": "122.0",
+                "BASE COTA": "266."
+            },
+            "F PEDFOG ": {
+                "TOPO": "122.0",
+                "TOPO COTA": "266.1",
+                "BASE": "265.0",
+                "BASE COTA": "123."
+            },
+            "F PIAUI  ": {
+                "TOPO": "265.0",
+                "TOPO COTA": "123.1",
+                "BASE": "549.0",
+                "BASE COTA": "-160."
+            },
+            "G CANIND ": {
+                "TOPO": "549.0",
+                "TOPO COTA": "-160.9",
+                "BASE": "1502.0",
+                "BASE COTA": "-1113."
+            },
+            "F POTI   ": {
+                "TOPO": "549.0",
+                "TOPO COTA": "-160.9",
+                "BASE": "775.0",
+                "BASE COTA": "-386."
+            },
+            "F LONGA  ": {
+                "TOPO": "775.0",
+                "TOPO COTA": "-386.9",
+                "BASE": "920.0",
+                "BASE COTA": "-531."
+            },
+            "F CABECA ": {
+                "TOPO": "920.0",
+                "TOPO COTA": "-531.9",
+                "BASE": "1053.0",
+                "BASE COTA": "-664."
+            },
+            "F PIMENT ": {
+                "TOPO": "1053.0",
+                "TOPO COTA": "-664.9",
+                "BASE": "1302.0",
+                "BASE COTA": "-913."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1302.0",
+                "TOPO COTA": "-913.9",
+                "BASE": "1502.0",
+                "BASE COTA": "-1113."
+            },
+            "G SGRAND ": {
+                "TOPO": "1502.0",
+                "TOPO COTA": "-1113.9",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1502.0",
+                "TOPO COTA": "-1113.9",
+                "BASE": "1670.0",
+                "BASE COTA": "-1281."
+            },
+            "F TIANGU ": {
+                "TOPO": "1670.0",
+                "TOPO COTA": "-1281.9",
+                "BASE": "1768.0",
+                "BASE COTA": "-1379."
+            },
+            "F IPU   ": {
+                "TOPO": "1768.0",
+                "TOPO COTA": "-1379.9",
+                "BASE": "1802.0",
+                "BASE COTA": "-1413."
+            },
+            "F RIACHA ": {
+                "TOPO": "1802.0",
+                "TOPO COTA": "-1413.9",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1IZ  0002  MA",
+        "IDENTIFICADOR": "SB23G23SE61E07D",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-5.45024 (   -5  27   .9)",
+        "LONGITUDE": "-47.35061 (  -47  21  2.2)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9397051.8S  239527.1W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "IMPERATRIZ",
+        "CODIGO POCO": "009170",
+        "B.A.P": "143.5",
+        "P.F.SONDADOR": "2335.0",
+        "PROF.MX.PERF.": "2334.0",
+        "METROS PERF.": "2335.0",
+        "MAIOR PROF.": "2335.0",
+        "INICIO": "19/06/83",
+        "TERMINO": "23/08/83",
+        "DATA LIB.SONDA": "26/08/83",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "17/03/83",
+        "CADASTRO": "00495",
+        "SEDOC": "0315",
+        "SONDA": "SC96",
+        "FORMACAO P.F.": "F RIACHA",
+        "NOME": "IMPERATRIZ.2",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9397051.8S    239527.1W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9397051.8S   239527.1W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1IZ  0002  MA": {
+            "F ITAPEC ": {
+                "TOPO": "5.0",
+                "TOPO COTA": "143.5",
+                "BASE": "35.0",
+                "BASE COTA": "113."
+            },
+            "F CODO   ": {
+                "TOPO": "35.0",
+                "TOPO COTA": "113.5",
+                "BASE": "63.0",
+                "BASE COTA": "85."
+            },
+            "F MOSQUI ": {
+                "TOPO": "63.0",
+                "TOPO COTA": "85.5",
+                "BASE": "354.0",
+                "BASE COTA": "-205."
+            },
+            "G BALSAS ": {
+                "TOPO": "354.0",
+                "TOPO COTA": "-205.5",
+                "BASE": "1392.0",
+                "BASE COTA": "-1243."
+            },
+            "F SAMBAI ": {
+                "TOPO": "354.0",
+                "TOPO COTA": "-205.5",
+                "BASE": "758.0",
+                "BASE COTA": "-609."
+            },
+            "F MOTUCA ": {
+                "TOPO": "758.0",
+                "TOPO COTA": "-609.5",
+                "BASE": "968.0",
+                "BASE COTA": "-819."
+            },
+            "F PEDFOG ": {
+                "TOPO": "968.0",
+                "TOPO COTA": "-819.5",
+                "BASE": "1148.0",
+                "BASE COTA": "-999."
+            },
+            "F PIAUI  ": {
+                "TOPO": "1148.0",
+                "TOPO COTA": "-999.5",
+                "BASE": "1392.0",
+                "BASE COTA": "-1243."
+            },
+            "G CANIND ": {
+                "TOPO": "1392.0",
+                "TOPO COTA": "-1243.5",
+                "BASE": "2099.0",
+                "BASE COTA": "-1950."
+            },
+            "F POTI   ": {
+                "TOPO": "1392.0",
+                "TOPO COTA": "-1243.5",
+                "BASE": "1521.0",
+                "BASE COTA": "-1372."
+            },
+            "F LONGA  ": {
+                "TOPO": "1521.0",
+                "TOPO COTA": "-1372.5",
+                "BASE": "1663.0",
+                "BASE COTA": "-1514."
+            },
+            "F CABECA ": {
+                "TOPO": "1663.0",
+                "TOPO COTA": "-1514.5",
+                "BASE": "1780.0",
+                "BASE COTA": "-1631."
+            },
+            "F PIMENT ": {
+                "TOPO": "1780.0",
+                "TOPO COTA": "-1631.5",
+                "BASE": "1960.0",
+                "BASE COTA": "-1811."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1960.0",
+                "TOPO COTA": "-1811.5",
+                "BASE": "2099.0",
+                "BASE COTA": "-1950."
+            },
+            "G SGRAND ": {
+                "TOPO": "2099.0",
+                "TOPO COTA": "-1950.5",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "2099.0",
+                "TOPO COTA": "-1950.5",
+                "BASE": "2246.0",
+                "BASE COTA": "-2097."
+            },
+            "F TIANGU ": {
+                "TOPO": "2246.0",
+                "TOPO COTA": "-2097.5",
+                "BASE": "2302.0",
+                "BASE COTA": "-2153."
+            },
+            "F IPU   ": {
+                "TOPO": "2302.0",
+                "TOPO COTA": "-2153.5",
+                "BASE": "2308.0",
+                "BASE COTA": "-2159."
+            },
+            "F RIACHA ": {
+                "TOPO": "2308.0",
+                "TOPO COTA": "-2159.5",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2BJST0001  MA",
+        "IDENTIFICADOR": "SA23Q44NO71B07B",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-2.83756 (   -2  50 15.2)",
+        "LONGITUDE": "-43.23308 (  -43  13 59.1)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9686207.4S  696413.2W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "PRIMEIRACRUZ",
+        "CODIGO POCO": "002553",
+        "B.A.P": "62.0",
+        "P.F.SONDADOR": "716.0",
+        "PROF.MX.PERF.": "718.7",
+        "METROS PERF.": "718.7",
+        "MAIOR PROF.": "718.7",
+        "INICIO": "08/05/66",
+        "TERMINO": "15/06/66",
+        "DATA LIB.SONDA": "16/06/66",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00229",
+        "SEDOC": "0076",
+        "SONDA": "SC46",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "BOM JARDIM.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9686207.4S    696413.2W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9686207.4S   696413.2W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2BJST0001  MA": {
+            "B  QUATERNA ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "62.0",
+                "BASE": "34.0",
+                "BASE COTA": "31."
+            },
+            "B    SPA   ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "62.0",
+                "BASE": "96.0",
+                "BASE COTA": "-31."
+            },
+            "B  TERC   ": {
+                "TOPO": "34.0",
+                "TOPO COTA": "31.0",
+                "BASE": "117.0",
+                "BASE COTA": "-52."
+            },
+            "F ITAPEC ": {
+                "TOPO": "96.0",
+                "TOPO COTA": "-31.0",
+                "BASE": "117.0",
+                "BASE COTA": "-52."
+            },
+            "B  SANTONIA ": {
+                "TOPO": "117.0",
+                "TOPO COTA": "-52.0",
+                "BASE": "204.0",
+                "BASE COTA": "-139."
+            },
+            "F CODO   ": {
+                "TOPO": "117.0",
+                "TOPO COTA": "-52.0",
+                "BASE": "447.0",
+                "BASE COTA": "-382."
+            },
+            "X  CENOMANI ": {
+                "TOPO": "204.0",
+                "TOPO COTA": "-139.0",
+                "BASE": "447.0",
+                "BASE COTA": "-382."
+            },
+            "B  ALBIANO  ": {
+                "TOPO": "447.0",
+                "TOPO COTA": "-382.0",
+                "BASE": "489.0",
+                "BASE COTA": "-424."
+            },
+            "F CORDA  ": {
+                "TOPO": "447.0",
+                "TOPO COTA": "-382.0",
+                "BASE": "489.0",
+                "BASE COTA": "-424."
+            },
+            "B  PALEOZOI ": {
+                "TOPO": "489.0",
+                "TOPO COTA": "-424.0",
+                "BASE": "708.0",
+                "BASE COTA": "-643."
+            },
+            "G SGRAND ": {
+                "TOPO": "489.0",
+                "TOPO COTA": "-424.0",
+                "BASE": "708.0",
+                "BASE COTA": "-643."
+            },
+            "F JAICOS ": {
+                "TOPO": "489.0",
+                "TOPO COTA": "-424.0",
+                "BASE": "545.0",
+                "BASE COTA": "-480."
+            },
+            "F TIANGU ": {
+                "TOPO": "545.0",
+                "TOPO COTA": "-480.0",
+                "BASE": "708.0",
+                "BASE COTA": "-643."
+            },
+            "B  PRE-CAMB ": {
+                "TOPO": "708.0",
+                "TOPO COTA": "-643.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "B    EMBASA ": {
+                "TOPO": "708.0",
+                "TOPO COTA": "-643.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2NLST0001  PI",
+        "IDENTIFICADOR": "SB23L32NE83A16C",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-5.60045 (   -5  36  1.6)",
+        "LONGITUDE": "-42.58597 (  -42  35  9.5)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9380405.9S  767435.8W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "PI",
+        "MUNICIPIO": "TERESINA",
+        "CODIGO POCO": "001605",
+        "B.A.P": "160.0",
+        "P.F.SONDADOR": "2274.9",
+        "PROF.MX.PERF.": "2274.6",
+        "METROS PERF.": "2274.9",
+        "MAIOR PROF.": "2274.9",
+        "INICIO": "09/04/62",
+        "TERMINO": "25/10/62",
+        "DATA LIB.SONDA": "07/11/62",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00151",
+        "SEDOC": "0045",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "EMBASA",
+        "NOME": "NATAL.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9380405.9S    767435.8W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9380405.9S   767435.8W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2NLST0001  PI": {
+            "G BALSAS ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "160.0",
+                "BASE": "20.0",
+                "BASE COTA": "144."
+            },
+            "F PIAUI  ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "160.0",
+                "BASE": "20.0",
+                "BASE COTA": "144."
+            },
+            "G CANIND ": {
+                "TOPO": "20.0",
+                "TOPO COTA": "144.0",
+                "BASE": "1503.0",
+                "BASE COTA": "-1339."
+            },
+            "F POTI   ": {
+                "TOPO": "20.0",
+                "TOPO COTA": "144.0",
+                "BASE": "433.0",
+                "BASE COTA": "-269."
+            },
+            "F LONGA  ": {
+                "TOPO": "433.0",
+                "TOPO COTA": "-269.0",
+                "BASE": "548.0",
+                "BASE COTA": "-384."
+            },
+            "F CABECA ": {
+                "TOPO": "548.0",
+                "TOPO COTA": "-384.0",
+                "BASE": "1034.0",
+                "BASE COTA": "-870."
+            },
+            "F PIMENT ": {
+                "TOPO": "1034.0",
+                "TOPO COTA": "-870.0",
+                "BASE": "1338.0",
+                "BASE COTA": "-1174."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1338.0",
+                "TOPO COTA": "-1174.0",
+                "BASE": "1503.0",
+                "BASE COTA": "-1339."
+            },
+            "G SGRAND ": {
+                "TOPO": "1503.0",
+                "TOPO COTA": "-1339.0",
+                "BASE": "2210.0",
+                "BASE COTA": "-2046."
+            },
+            "F JAICOS ": {
+                "TOPO": "1503.0",
+                "TOPO COTA": "-1339.0",
+                "BASE": "1793.0",
+                "BASE COTA": "-1629."
+            },
+            "F TIANGU ": {
+                "TOPO": "1793.0",
+                "TOPO COTA": "-1629.0",
+                "BASE": "2002.0",
+                "BASE COTA": "-1838."
+            },
+            "F IPU   ": {
+                "TOPO": "2002.0",
+                "TOPO COTA": "-1838.0",
+                "BASE": "2210.0",
+                "BASE COTA": "-2046."
+            },
+            "R    EMBASA ": {
+                "TOPO": "2210.0",
+                "TOPO COTA": "-2046.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1PA  0001  MA",
+        "IDENTIFICADOR": "SB23C12SO37W59C",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-4.17392 (   -4  10 26.1)",
+        "LONGITUDE": "-45.65523 (  -45  39 18.8)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9538612.3S  427276.3W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "SANTA LUZIA",
+        "CODIGO POCO": "006817",
+        "B.A.P": "93.0",
+        "P.F.SONDADOR": "2865.0",
+        "PROF.MX.PERF.": "2856.6",
+        "METROS PERF.": "2865.0",
+        "MAIOR PROF.": "2865.0",
+        "INICIO": "22/04/81",
+        "TERMINO": "24/06/81",
+        "DATA LIB.SONDA": "30/06/81",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "30/03/81",
+        "CADASTRO": "00427",
+        "SEDOC": "0242",
+        "SONDA": "SM-3",
+        "FORMACAO P.F.": "EMBASA",
+        "NOME": "PALESTINA.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9538612.3S    427276.3W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9538612.3S   427276.3W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PARKER",
+        "DIRECIONAL?": "VERTICAL",
+        "1PA  0001  MA": {
+            "F ITAPEC ": {
+                "TOPO": "6.0",
+                "TOPO COTA": "93.0",
+                "BASE": "318.0",
+                "BASE COTA": "-219."
+            },
+            "F CODO   ": {
+                "TOPO": "318.0",
+                "TOPO COTA": "-219.0",
+                "BASE": "413.0",
+                "BASE COTA": "-314."
+            },
+            "F GRAJAU ": {
+                "TOPO": "413.0",
+                "TOPO COTA": "-314.0",
+                "BASE": "504.0",
+                "BASE COTA": "-405."
+            },
+            "G MEARIM ": {
+                "TOPO": "504.0",
+                "TOPO COTA": "-405.0",
+                "BASE": "560.0",
+                "BASE COTA": "-461."
+            },
+            "F PASBON ": {
+                "TOPO": "504.0",
+                "TOPO COTA": "-405.0",
+                "BASE": "560.0",
+                "BASE COTA": "-461."
+            },
+            "G BALSAS ": {
+                "TOPO": "560.0",
+                "TOPO COTA": "-461.0",
+                "BASE": "1273.0",
+                "BASE COTA": "-1174."
+            },
+            "F MOTUCA ": {
+                "TOPO": "560.0",
+                "TOPO COTA": "-461.0",
+                "BASE": "780.0",
+                "BASE COTA": "-681."
+            },
+            "F PEDFOG ": {
+                "TOPO": "780.0",
+                "TOPO COTA": "-681.0",
+                "BASE": "984.0",
+                "BASE COTA": "-885."
+            },
+            "F PIAUI  ": {
+                "TOPO": "984.0",
+                "TOPO COTA": "-885.0",
+                "BASE": "1273.0",
+                "BASE COTA": "-1174."
+            },
+            "G CANIND ": {
+                "TOPO": "1273.0",
+                "TOPO COTA": "-1174.0",
+                "BASE": "2397.0",
+                "BASE COTA": "-2298."
+            },
+            "F POTI   ": {
+                "TOPO": "1273.0",
+                "TOPO COTA": "-1174.0",
+                "BASE": "1542.0",
+                "BASE COTA": "-1443."
+            },
+            "F LONGA  ": {
+                "TOPO": "1542.0",
+                "TOPO COTA": "-1443.0",
+                "BASE": "1627.0",
+                "BASE COTA": "-1528."
+            },
+            "F CABECA ": {
+                "TOPO": "1627.0",
+                "TOPO COTA": "-1528.0",
+                "BASE": "1721.0",
+                "BASE COTA": "-1622."
+            },
+            "F PIMENT ": {
+                "TOPO": "1721.0",
+                "TOPO COTA": "-1622.0",
+                "BASE": "2247.0",
+                "BASE COTA": "-2148."
+            },
+            "F ITAIM  ": {
+                "TOPO": "2247.0",
+                "TOPO COTA": "-2148.0",
+                "BASE": "2397.0",
+                "BASE COTA": "-2298."
+            },
+            "G SGRAND ": {
+                "TOPO": "2397.0",
+                "TOPO COTA": "-2298.0",
+                "BASE": "2845.0",
+                "BASE COTA": "-2746."
+            },
+            "F JAICOS ": {
+                "TOPO": "2397.0",
+                "TOPO COTA": "-2298.0",
+                "BASE": "2555.0",
+                "BASE COTA": "-2456."
+            },
+            "F TIANGU ": {
+                "TOPO": "2555.0",
+                "TOPO COTA": "-2456.0",
+                "BASE": "2686.0",
+                "BASE COTA": "-2587."
+            },
+            "F IPU   ": {
+                "TOPO": "2686.0",
+                "TOPO COTA": "-2587.0",
+                "BASE": "2845.0",
+                "BASE COTA": "-2746."
+            },
+            "B    EMBASA ": {
+                "TOPO": "2845.0",
+                "TOPO COTA": "-2746.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2VBST0001  MA",
+        "IDENTIFICADOR": "SB23T23SE75Q32A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-7.47083 (   -7  28 15.0)",
+        "LONGITUDE": "-46.30945 (  -46  18 34.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9173977.7S  355502.3W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "BALSAS",
+        "CODIGO POCO": "002678",
+        "B.A.P": "388.0",
+        "P.F.SONDADOR": "1940.7",
+        "PROF.MX.PERF.": "1941.4",
+        "METROS PERF.": "1941.4",
+        "MAIOR PROF.": "1941.4",
+        "INICIO": "16/10/66",
+        "TERMINO": "21/12/66",
+        "DATA LIB.SONDA": "28/12/66",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00237",
+        "SEDOC": "0077",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F RIACHA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "VEREDA BOA.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9173977.7S    355502.3W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9173977.7S   355502.3W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2VBST0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "388.0",
+                "BASE": "400.0",
+                "BASE COTA": "-8."
+            },
+            "F PEDFOG ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "388.0",
+                "BASE": "105.0",
+                "BASE COTA": "287."
+            },
+            "F PIAUI  ": {
+                "TOPO": "105.0",
+                "TOPO COTA": "287.0",
+                "BASE": "400.0",
+                "BASE COTA": "-8."
+            },
+            "G CANIND ": {
+                "TOPO": "400.0",
+                "TOPO COTA": "-8.0",
+                "BASE": "1502.0",
+                "BASE COTA": "-1110."
+            },
+            "F POTI   ": {
+                "TOPO": "400.0",
+                "TOPO COTA": "-8.0",
+                "BASE": "623.0",
+                "BASE COTA": "-231."
+            },
+            "F LONGA  ": {
+                "TOPO": "623.0",
+                "TOPO COTA": "-231.0",
+                "BASE": "800.0",
+                "BASE COTA": "-408."
+            },
+            "F CABECA ": {
+                "TOPO": "800.0",
+                "TOPO COTA": "-408.0",
+                "BASE": "935.0",
+                "BASE COTA": "-543."
+            },
+            "F PIMENT ": {
+                "TOPO": "935.0",
+                "TOPO COTA": "-543.0",
+                "BASE": "1304.0",
+                "BASE COTA": "-912."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1304.0",
+                "TOPO COTA": "-912.0",
+                "BASE": "1502.0",
+                "BASE COTA": "-1110."
+            },
+            "G SGRAND ": {
+                "TOPO": "1502.0",
+                "TOPO COTA": "-1110.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1502.0",
+                "TOPO COTA": "-1110.0",
+                "BASE": "1710.0",
+                "BASE COTA": "-1318."
+            },
+            "F TIANGU ": {
+                "TOPO": "1710.0",
+                "TOPO COTA": "-1318.0",
+                "BASE": "1815.0",
+                "BASE COTA": "-1423."
+            },
+            "F IPU   ": {
+                "TOPO": "1815.0",
+                "TOPO COTA": "-1423.0",
+                "BASE": "1925.0",
+                "BASE COTA": "-1533."
+            },
+            "F RIACHA ": {
+                "TOPO": "1925.0",
+                "TOPO COTA": "-1533.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2BBST0001  MA",
+        "IDENTIFICADOR": "SA23Q43NO40K02B",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-2.80503 (   -2  48 18.1)",
+        "LONGITUDE": "-43.49935 (  -43  29 57.7)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9689846.8S  666811.0W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "HUMB CAMPOS",
+        "CODIGO POCO": "002257",
+        "B.A.P": "47.0",
+        "P.F.SONDADOR": "471.5",
+        "PROF.MX.PERF.": "471.2",
+        "METROS PERF.": "471.5",
+        "MAIOR PROF.": "471.5",
+        "INICIO": "23/04/65",
+        "TERMINO": "04/05/65",
+        "DATA LIB.SONDA": "31/05/65",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00205",
+        "SEDOC": "0068",
+        "SONDA": "SC45",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "BACABA.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9689846.8S    666811.0W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9689846.8S   666811.0W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2BBST0001  MA": {
+            "B  QUATERNA ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "47.0",
+                "BASE": "24.0",
+                "BASE COTA": "26."
+            },
+            "B    SPA   ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "47.0",
+                "BASE": "24.0",
+                "BASE COTA": "26."
+            },
+            "B  TERC   ": {
+                "TOPO": "24.0",
+                "TOPO COTA": "26.0",
+                "BASE": "89.0",
+                "BASE COTA": "-39."
+            },
+            "F PIRABA ": {
+                "TOPO": "24.0",
+                "TOPO COTA": "26.0",
+                "BASE": "89.0",
+                "BASE COTA": "-39."
+            },
+            "X  CENOMANI ": {
+                "TOPO": "89.0",
+                "TOPO COTA": "-39.0",
+                "BASE": "330.0",
+                "BASE COTA": "-280."
+            },
+            "F ARPOAD ": {
+                "TOPO": "89.0",
+                "TOPO COTA": "-39.0",
+                "BASE": "335.0",
+                "BASE COTA": "-285."
+            },
+            "R  ALBIANO  ": {
+                "TOPO": "330.0",
+                "TOPO COTA": "-280.0",
+                "BASE": "466.0",
+                "BASE COTA": "-416."
+            },
+            "F CORDA  ": {
+                "TOPO": "335.0",
+                "TOPO COTA": "-285.0",
+                "BASE": "366.0",
+                "BASE COTA": "-316."
+            },
+            "F PASBON ": {
+                "TOPO": "366.0",
+                "TOPO COTA": "-316.0",
+                "BASE": "466.0",
+                "BASE COTA": "-416."
+            },
+            "B  PRE-CAMB ": {
+                "TOPO": "466.0",
+                "TOPO COTA": "-416.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "B    EMBASA ": {
+                "TOPO": "466.0",
+                "TOPO COTA": "-416.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2SLST0001  MA",
+        "IDENTIFICADOR": "SA23U34SO97Y31A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-3.99833 (   -3  59 54.0)",
+        "LONGITUDE": "-45.65222 (  -45  39  8.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9558023.2S  427595.0W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "PINDAREMIRIM",
+        "CODIGO POCO": "000768",
+        "B.A.P": "46.5",
+        "P.F.SONDADOR": "2495.0",
+        "PROF.MX.PERF.": "2495.4",
+        "METROS PERF.": "2495.4",
+        "MAIOR PROF.": "2495.4",
+        "INICIO": "25/09/58",
+        "TERMINO": "21/03/59",
+        "DATA LIB.SONDA": "29/04/59",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00054",
+        "SEDOC": "0019",
+        "SONDA": "SC30",
+        "FORMACAO P.F.": "F IPU",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "SANTA LUZIA.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9558023.2S    427595.0W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9558023.2S   427595.0W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2SLST0001  MA": {
+            "F ITAPEC ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "46.5",
+                "BASE": "350.0",
+                "BASE COTA": "-299."
+            },
+            "F CODO   ": {
+                "TOPO": "350.0",
+                "TOPO COTA": "-299.5",
+                "BASE": "483.0",
+                "BASE COTA": "-432."
+            },
+            "F GRAJAU ": {
+                "TOPO": "483.0",
+                "TOPO COTA": "-432.5",
+                "BASE": "498.0",
+                "BASE COTA": "-447."
+            },
+            "G BALSAS ": {
+                "TOPO": "498.0",
+                "TOPO COTA": "-447.5",
+                "BASE": "1095.0",
+                "BASE COTA": "-1044."
+            },
+            "F MOTUCA ": {
+                "TOPO": "498.0",
+                "TOPO COTA": "-447.5",
+                "BASE": "577.0",
+                "BASE COTA": "-526."
+            },
+            "F PEDFOG ": {
+                "TOPO": "577.0",
+                "TOPO COTA": "-526.5",
+                "BASE": "805.0",
+                "BASE COTA": "-754."
+            },
+            "F PIAUI  ": {
+                "TOPO": "805.0",
+                "TOPO COTA": "-754.5",
+                "BASE": "1095.0",
+                "BASE COTA": "-1044."
+            },
+            "G CANIND ": {
+                "TOPO": "1095.0",
+                "TOPO COTA": "-1044.5",
+                "BASE": "2200.0",
+                "BASE COTA": "-2149."
+            },
+            "F POTI   ": {
+                "TOPO": "1095.0",
+                "TOPO COTA": "-1044.5",
+                "BASE": "1309.0",
+                "BASE COTA": "-1258."
+            },
+            "F LONGA  ": {
+                "TOPO": "1309.0",
+                "TOPO COTA": "-1258.5",
+                "BASE": "1476.0",
+                "BASE COTA": "-1425."
+            },
+            "F CABECA ": {
+                "TOPO": "1476.0",
+                "TOPO COTA": "-1425.5",
+                "BASE": "1582.0",
+                "BASE COTA": "-1531."
+            },
+            "F PIMENT ": {
+                "TOPO": "1582.0",
+                "TOPO COTA": "-1531.5",
+                "BASE": "2048.0",
+                "BASE COTA": "-1997."
+            },
+            "F ITAIM  ": {
+                "TOPO": "2048.0",
+                "TOPO COTA": "-1997.5",
+                "BASE": "2200.0",
+                "BASE COTA": "-2149."
+            },
+            "G SGRAND ": {
+                "TOPO": "2200.0",
+                "TOPO COTA": "-2149.5",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "2200.0",
+                "TOPO COTA": "-2149.5",
+                "BASE": "2355.0",
+                "BASE COTA": "-2304."
+            },
+            "F TIANGU ": {
+                "TOPO": "2355.0",
+                "TOPO COTA": "-2304.5",
+                "BASE": "2485.0",
+                "BASE COTA": "-2434."
+            },
+            "F IPU   ": {
+                "TOPO": "2485.0",
+                "TOPO COTA": "-2434.5",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2NGST0001  MA",
+        "IDENTIFICADOR": "SB23H44NE40L87D",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-5.80722 (   -5  48 26.0)",
+        "LONGITUDE": "-46.12056 (  -46   7 14.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9357975.6S  375933.1W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "PRES DUTRA",
+        "CODIGO POCO": "001441",
+        "B.A.P": "205.0",
+        "P.F.SONDADOR": "2572.9",
+        "PROF.MX.PERF.": "2561.3",
+        "METROS PERF.": "2572.9",
+        "MAIOR PROF.": "2572.9",
+        "INICIO": "03/08/61",
+        "TERMINO": "27/11/61",
+        "DATA LIB.SONDA": "10/12/61",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00140",
+        "SEDOC": "0038",
+        "SONDA": "SC24",
+        "FORMACAO P.F.": "F TIANGU",
+        "NOME": "NORTE DE GRAJAU.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9357975.6S    375933.1W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9357975.6S   375933.1W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2NGST0001  MA": {
+            "F GRAJAU ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "205.0",
+                "BASE": "14.0",
+                "BASE COTA": "195."
+            },
+            "G MEARIM ": {
+                "TOPO": "14.0",
+                "TOPO COTA": "195.0",
+                "BASE": "31.0",
+                "BASE COTA": "178."
+            },
+            "F CORDA  ": {
+                "TOPO": "14.0",
+                "TOPO COTA": "195.0",
+                "BASE": "31.0",
+                "BASE COTA": "178."
+            },
+            "F MOSQUI ": {
+                "TOPO": "31.0",
+                "TOPO COTA": "178.0",
+                "BASE": "159.0",
+                "BASE COTA": "50."
+            },
+            "G BALSAS ": {
+                "TOPO": "159.0",
+                "TOPO COTA": "50.0",
+                "BASE": "1276.0",
+                "BASE COTA": "-1067."
+            },
+            "F SAMBAI ": {
+                "TOPO": "159.0",
+                "TOPO COTA": "50.0",
+                "BASE": "552.0",
+                "BASE COTA": "-343."
+            },
+            "F MOTUCA ": {
+                "TOPO": "552.0",
+                "TOPO COTA": "-343.0",
+                "BASE": "781.0",
+                "BASE COTA": "-572."
+            },
+            "F PEDFOG ": {
+                "TOPO": "781.0",
+                "TOPO COTA": "-572.0",
+                "BASE": "976.0",
+                "BASE COTA": "-767."
+            },
+            "F PIAUI  ": {
+                "TOPO": "976.0",
+                "TOPO COTA": "-767.0",
+                "BASE": "1276.0",
+                "BASE COTA": "-1067."
+            },
+            "G CANIND ": {
+                "TOPO": "1276.0",
+                "TOPO COTA": "-1067.0",
+                "BASE": "2372.0",
+                "BASE COTA": "-2163."
+            },
+            "F POTI   ": {
+                "TOPO": "1276.0",
+                "TOPO COTA": "-1067.0",
+                "BASE": "1470.0",
+                "BASE COTA": "-1261."
+            },
+            "F LONGA  ": {
+                "TOPO": "1470.0",
+                "TOPO COTA": "-1261.0",
+                "BASE": "1612.0",
+                "BASE COTA": "-1403."
+            },
+            "F CABECA ": {
+                "TOPO": "1612.0",
+                "TOPO COTA": "-1403.0",
+                "BASE": "1702.0",
+                "BASE COTA": "-1493."
+            },
+            "F PIMENT ": {
+                "TOPO": "1702.0",
+                "TOPO COTA": "-1493.0",
+                "BASE": "2235.0",
+                "BASE COTA": "-2026."
+            },
+            "F ITAIM  ": {
+                "TOPO": "2235.0",
+                "TOPO COTA": "-2026.0",
+                "BASE": "2372.0",
+                "BASE COTA": "-2163."
+            },
+            "G SGRAND ": {
+                "TOPO": "2372.0",
+                "TOPO COTA": "-2163.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "2372.0",
+                "TOPO COTA": "-2163.0",
+                "BASE": "2557.0",
+                "BASE COTA": "-2348."
+            },
+            "F TIANGU ": {
+                "TOPO": "2557.0",
+                "TOPO COTA": "-2348.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2BGST0001  MA",
+        "IDENTIFICADOR": "SB23Q24SO67Y40A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-6.46106 (   -6  27 39.8)",
+        "LONGITUDE": "-43.15247 (  -43   9  8.9)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9285450.2S  704329.3W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "BARAO GRAJAU",
+        "CODIGO POCO": "000836",
+        "QUADRICULA": "43928570",
+        "MESA ROTATIVA": "263.0",
+        "B.A.P": "260.0",
+        "P.F.SONDADOR": "2020.0",
+        "PROF.MX.PERF.": "1644.8",
+        "METROS PERF.": "2020.0",
+        "MAIOR PROF.": "2020.0",
+        "INICIO": "25/02/59",
+        "TERMINO": "06/09/59",
+        "DATA LIB.SONDA": "08/10/59",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "23/02/59",
+        "CADASTRO": "00061",
+        "SEDOC": "0018",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F JAICOS",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "BARAO DE GRAJAU.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9285450.2S    704329.3W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9285450.2S   704329.3W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2BGST0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "260.0",
+                "BASE": "211.0",
+                "BASE COTA": "52."
+            },
+            "F PIAUI  ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "260.0",
+                "BASE": "211.0",
+                "BASE COTA": "52."
+            },
+            "G CANIND ": {
+                "TOPO": "211.0",
+                "TOPO COTA": "52.0",
+                "BASE": "1775.0",
+                "BASE COTA": "-1512."
+            },
+            "F POTI   ": {
+                "TOPO": "211.0",
+                "TOPO COTA": "52.0",
+                "BASE": "450.0",
+                "BASE COTA": "-187."
+            },
+            "F LONGA  ": {
+                "TOPO": "450.0",
+                "TOPO COTA": "-187.0",
+                "BASE": "800.0",
+                "BASE COTA": "-537."
+            },
+            "F CABECA ": {
+                "TOPO": "800.0",
+                "TOPO COTA": "-537.0",
+                "BASE": "1109.0",
+                "BASE COTA": "-846."
+            },
+            "F PIMENT ": {
+                "TOPO": "1109.0",
+                "TOPO COTA": "-846.0",
+                "BASE": "1615.0",
+                "BASE COTA": "-1352."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1615.0",
+                "TOPO COTA": "-1352.0",
+                "BASE": "1775.0",
+                "BASE COTA": "-1512."
+            },
+            "G SGRAND ": {
+                "TOPO": "1775.0",
+                "TOPO COTA": "-1512.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1775.0",
+                "TOPO COTA": "-1512.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2VGST0001  MA",
+        "IDENTIFICADOR": "SA23W31NO39U35C",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-3.54850 (   -3  32 54.6)",
+        "LONGITUDE": "-43.88622 (  -43  53 10.4)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9607700.4S  623712.2W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "VARGEM GRAND",
+        "CODIGO POCO": "001201",
+        "B.A.P": "38.0",
+        "P.F.SONDADOR": "1647.3",
+        "PROF.MX.PERF.": "1645.0",
+        "METROS PERF.": "1647.3",
+        "MAIOR PROF.": "1647.3",
+        "INICIO": "18/08/60",
+        "TERMINO": "27/11/60",
+        "DATA LIB.SONDA": "16/12/60",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00119",
+        "SEDOC": "0029",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F IPU",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "VARGEM GRANDE.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9607700.4S    623712.2W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9607700.4S   623712.2W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2VGST0001  MA": {
+            "F ITAPEC ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "37.0",
+                "BASE": "270.0",
+                "BASE COTA": "-229."
+            },
+            "F CODO   ": {
+                "TOPO": "270.0",
+                "TOPO COTA": "-229.0",
+                "BASE": "385.0",
+                "BASE COTA": "-344."
+            },
+            "F GRAJAU ": {
+                "TOPO": "385.0",
+                "TOPO COTA": "-344.0",
+                "BASE": "415.0",
+                "BASE COTA": "-374."
+            },
+            "G CANIND ": {
+                "TOPO": "415.0",
+                "TOPO COTA": "-374.0",
+                "BASE": "1220.0",
+                "BASE COTA": "-1179."
+            },
+            "F CABECA ": {
+                "TOPO": "415.0",
+                "TOPO COTA": "-374.0",
+                "BASE": "748.0",
+                "BASE COTA": "-707."
+            },
+            "F PIMENT ": {
+                "TOPO": "748.0",
+                "TOPO COTA": "-707.0",
+                "BASE": "1080.0",
+                "BASE COTA": "-1039."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1080.0",
+                "TOPO COTA": "-1039.0",
+                "BASE": "1220.0",
+                "BASE COTA": "-1179."
+            },
+            "G SGRAND ": {
+                "TOPO": "1220.0",
+                "TOPO COTA": "-1179.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1220.0",
+                "TOPO COTA": "-1179.0",
+                "BASE": "1357.0",
+                "BASE COTA": "-1316."
+            },
+            "F TIANGU ": {
+                "TOPO": "1357.0",
+                "TOPO COTA": "-1316.0",
+                "BASE": "1492.0",
+                "BASE COTA": "-1451."
+            },
+            "F IPU   ": {
+                "TOPO": "1492.0",
+                "TOPO COTA": "-1451.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1PD  0001  MA",
+        "IDENTIFICADOR": "SB23J14NE34X93C",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-5.29999 (   -5  17 60.0)",
+        "LONGITUDE": "-44.56666 (  -44  33 60.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9414150.8S  548016.7W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "PRES DUTRA",
+        "CODIGO POCO": "001011",
+        "B.A.P": "145.0",
+        "P.F.SONDADOR": "2843.6",
+        "PROF.MX.PERF.": "2842.8",
+        "METROS PERF.": "2843.6",
+        "MAIOR PROF.": "2843.6",
+        "INICIO": "20/11/59",
+        "TERMINO": "25/06/60",
+        "DATA LIB.SONDA": "18/07/60",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00091",
+        "SEDOC": "0029",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F TIANGU",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "PRESIDENTE DUTRA.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9414150.8S    548016.7W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9414150.8S   548016.7W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1PD  0001  MA": {
+            "F CODO   ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "145.0",
+                "BASE": "115.0",
+                "BASE COTA": "33."
+            },
+            "G MEARIM ": {
+                "TOPO": "115.0",
+                "TOPO COTA": "33.0",
+                "BASE": "190.0",
+                "BASE COTA": "-42."
+            },
+            "F CORDA  ": {
+                "TOPO": "115.0",
+                "TOPO COTA": "33.0",
+                "BASE": "153.0",
+                "BASE COTA": "-5."
+            },
+            "F PASBON ": {
+                "TOPO": "153.0",
+                "TOPO COTA": "-5.0",
+                "BASE": "190.0",
+                "BASE COTA": "-42."
+            },
+            "G BALSAS ": {
+                "TOPO": "190.0",
+                "TOPO COTA": "-42.0",
+                "BASE": "1157.0",
+                "BASE COTA": "-1009."
+            },
+            "F SAMBAI ": {
+                "TOPO": "190.0",
+                "TOPO COTA": "-42.0",
+                "BASE": "440.0",
+                "BASE COTA": "-292."
+            },
+            "F MOTUCA ": {
+                "TOPO": "440.0",
+                "TOPO COTA": "-292.0",
+                "BASE": "647.0",
+                "BASE COTA": "-499."
+            },
+            "F PEDFOG ": {
+                "TOPO": "647.0",
+                "TOPO COTA": "-499.0",
+                "BASE": "865.0",
+                "BASE COTA": "-717."
+            },
+            "F PIAUI  ": {
+                "TOPO": "865.0",
+                "TOPO COTA": "-717.0",
+                "BASE": "1157.0",
+                "BASE COTA": "-1009."
+            },
+            "G CANIND ": {
+                "TOPO": "1157.0",
+                "TOPO COTA": "-1009.0",
+                "BASE": "2515.0",
+                "BASE COTA": "-2367."
+            },
+            "F POTI   ": {
+                "TOPO": "1157.0",
+                "TOPO COTA": "-1009.0",
+                "BASE": "1380.0",
+                "BASE COTA": "-1232."
+            },
+            "F LONGA  ": {
+                "TOPO": "1380.0",
+                "TOPO COTA": "-1232.0",
+                "BASE": "1645.0",
+                "BASE COTA": "-1497."
+            },
+            "F CABECA ": {
+                "TOPO": "1645.0",
+                "TOPO COTA": "-1497.0",
+                "BASE": "1919.0",
+                "BASE COTA": "-1771."
+            },
+            "F PIMENT ": {
+                "TOPO": "1919.0",
+                "TOPO COTA": "-1771.0",
+                "BASE": "2366.0",
+                "BASE COTA": "-2218."
+            },
+            "F ITAIM  ": {
+                "TOPO": "2366.0",
+                "TOPO COTA": "-2218.0",
+                "BASE": "2515.0",
+                "BASE COTA": "-2367."
+            },
+            "G SGRAND ": {
+                "TOPO": "2515.0",
+                "TOPO COTA": "-2367.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "2515.0",
+                "TOPO COTA": "-2367.0",
+                "BASE": "2745.0",
+                "BASE COTA": "-2597."
+            },
+            "F TIANGU ": {
+                "TOPO": "2745.0",
+                "TOPO COTA": "-2597.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1MS  0001  MA",
+        "IDENTIFICADOR": "SB23O43SO90I66B",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-6.99155 (   -6  59 29.6)",
+        "LONGITUDE": "-45.49075 (  -45  29 26.7)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9227147.8S  445792.3W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "MANGABEIRAS",
+        "CODIGO POCO": "000714",
+        "B.A.P": "248.0",
+        "P.F.SONDADOR": "2555.3",
+        "PROF.MX.PERF.": "2555.2",
+        "METROS PERF.": "2555.3",
+        "MAIOR PROF.": "2555.3",
+        "INICIO": "13/05/58",
+        "TERMINO": "23/12/58",
+        "DATA LIB.SONDA": "30/12/58",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00041",
+        "SEDOC": "0014",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "EMBASA",
+        "NOME": "MANGABEIRAS.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9227147.8S    445792.3W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9227147.8S   445792.3W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1MS  0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "248.0",
+                "BASE": "632.0",
+                "BASE COTA": "-381."
+            },
+            "F MOTUCA ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "248.0",
+                "BASE": "165.0",
+                "BASE COTA": "86."
+            },
+            "F PEDFOG ": {
+                "TOPO": "165.0",
+                "TOPO COTA": "86.0",
+                "BASE": "306.0",
+                "BASE COTA": "-55."
+            },
+            "F PIAUI  ": {
+                "TOPO": "306.0",
+                "TOPO COTA": "-55.0",
+                "BASE": "632.0",
+                "BASE COTA": "-381."
+            },
+            "G CANIND ": {
+                "TOPO": "632.0",
+                "TOPO COTA": "-381.0",
+                "BASE": "1980.0",
+                "BASE COTA": "-1729."
+            },
+            "F POTI   ": {
+                "TOPO": "632.0",
+                "TOPO COTA": "-381.0",
+                "BASE": "949.0",
+                "BASE COTA": "-698."
+            },
+            "F LONGA  ": {
+                "TOPO": "949.0",
+                "TOPO COTA": "-698.0",
+                "BASE": "1032.0",
+                "BASE COTA": "-781."
+            },
+            "F CABECA ": {
+                "TOPO": "1032.0",
+                "TOPO COTA": "-781.0",
+                "BASE": "1196.0",
+                "BASE COTA": "-945."
+            },
+            "F PIMENT ": {
+                "TOPO": "1196.0",
+                "TOPO COTA": "-945.0",
+                "BASE": "1785.0",
+                "BASE COTA": "-1534."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1785.0",
+                "TOPO COTA": "-1534.0",
+                "BASE": "1980.0",
+                "BASE COTA": "-1729."
+            },
+            "G SGRAND ": {
+                "TOPO": "1980.0",
+                "TOPO COTA": "-1729.0",
+                "BASE": "2460.0",
+                "BASE COTA": "-2209."
+            },
+            "F JAICOS ": {
+                "TOPO": "1980.0",
+                "TOPO COTA": "-1729.0",
+                "BASE": "2186.0",
+                "BASE COTA": "-1935."
+            },
+            "F TIANGU ": {
+                "TOPO": "2186.0",
+                "TOPO COTA": "-1935.0",
+                "BASE": "2302.0",
+                "BASE COTA": "-2051."
+            },
+            "F IPU   ": {
+                "TOPO": "2302.0",
+                "TOPO COTA": "-2051.0",
+                "BASE": "2460.0",
+                "BASE COTA": "-2209."
+            },
+            "B    EMBASA ": {
+                "TOPO": "2460.0",
+                "TOPO COTA": "-2209.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1CA  0001  MA",
+        "IDENTIFICADOR": "SB23U31NO34F63C",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-7.54167 (   -7  32 30.0)",
+        "LONGITUDE": "-45.94917 (  -45  56 57.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9166247.9S  395280.3W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "BALSAS",
+        "CODIGO POCO": "002340",
+        "B.A.P": "320.0",
+        "P.F.SONDADOR": "1935.6",
+        "PROF.MX.PERF.": "1933.9",
+        "METROS PERF.": "1935.6",
+        "MAIOR PROF.": "1935.6",
+        "INICIO": "05/09/65",
+        "TERMINO": "09/01/66",
+        "DATA LIB.SONDA": "14/01/66",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00214",
+        "SEDOC": "0061",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F TIANGU",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "CARAIBAS.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9166247.9S    395280.3W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9166247.9S   395280.3W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1CA  0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "320.0",
+                "BASE": "397.0",
+                "BASE COTA": "-74."
+            },
+            "F PEDFOG ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "320.0",
+                "BASE": "103.0",
+                "BASE COTA": "220."
+            },
+            "F PIAUI  ": {
+                "TOPO": "103.0",
+                "TOPO COTA": "220.0",
+                "BASE": "397.0",
+                "BASE COTA": "-74."
+            },
+            "G CANIND ": {
+                "TOPO": "397.0",
+                "TOPO COTA": "-74.0",
+                "BASE": "1609.0",
+                "BASE COTA": "-1286."
+            },
+            "F POTI   ": {
+                "TOPO": "397.0",
+                "TOPO COTA": "-74.0",
+                "BASE": "655.0",
+                "BASE COTA": "-332."
+            },
+            "F LONGA  ": {
+                "TOPO": "655.0",
+                "TOPO COTA": "-332.0",
+                "BASE": "790.0",
+                "BASE COTA": "-467."
+            },
+            "F CABECA ": {
+                "TOPO": "790.0",
+                "TOPO COTA": "-467.0",
+                "BASE": "1013.0",
+                "BASE COTA": "-690."
+            },
+            "F PIMENT ": {
+                "TOPO": "1013.0",
+                "TOPO COTA": "-690.0",
+                "BASE": "1409.0",
+                "BASE COTA": "-1086."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1409.0",
+                "TOPO COTA": "-1086.0",
+                "BASE": "1609.0",
+                "BASE COTA": "-1286."
+            },
+            "G SGRAND ": {
+                "TOPO": "1609.0",
+                "TOPO COTA": "-1286.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1609.0",
+                "TOPO COTA": "-1286.0",
+                "BASE": "1837.0",
+                "BASE COTA": "-1514."
+            },
+            "F TIANGU ": {
+                "TOPO": "1837.0",
+                "TOPO COTA": "-1514.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2BAC 0001  MA",
+        "IDENTIFICADOR": "SB23I23NO34W91A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-5.29983 (   -5  17 59.4)",
+        "LONGITUDE": "-45.44464 (  -45  26 40.7)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9414167.8S  450729.8W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "BAR.DO CORDA",
+        "CODIGO POCO": "014038",
+        "B.A.P": "212.0",
+        "P.F.SONDADOR": "3252.0",
+        "PROF.MX.PERF.": "3250.0",
+        "METROS PERF.": "3252.0",
+        "MAIOR PROF.": "3252.0",
+        "INICIO": "14/12/87",
+        "TERMINO": "19/04/88",
+        "DATA LIB.SONDA": "29/04/88",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "31/03/87",
+        "CADASTRO": "00589",
+        "SEDOC": "0405",
+        "SONDA": "SC99",
+        "FORMACAO P.F.": "EMBASA",
+        "NOME": "BARRA DO CORDA.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9414167.8S    450729.8W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9414167.8S   450729.8W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2BAC 0001  MA": {
+            "F ITAPEC ": {
+                "TOPO": "5.0",
+                "TOPO COTA": "212.0",
+                "BASE": "102.0",
+                "BASE COTA": "115."
+            },
+            "F CODO   ": {
+                "TOPO": "102.0",
+                "TOPO COTA": "115.0",
+                "BASE": "277.0",
+                "BASE COTA": "-60."
+            },
+            "G MEARIM ": {
+                "TOPO": "277.0",
+                "TOPO COTA": "-60.0",
+                "BASE": "383.0",
+                "BASE COTA": "-166."
+            },
+            "F CORDA  ": {
+                "TOPO": "277.0",
+                "TOPO COTA": "-60.0",
+                "BASE": "347.0",
+                "BASE COTA": "-130."
+            },
+            "F PASBON ": {
+                "TOPO": "347.0",
+                "TOPO COTA": "-130.0",
+                "BASE": "383.0",
+                "BASE COTA": "-166."
+            },
+            "G BALSAS ": {
+                "TOPO": "383.0",
+                "TOPO COTA": "-166.0",
+                "BASE": "1348.0",
+                "BASE COTA": "-1131."
+            },
+            "F SAMBAI ": {
+                "TOPO": "383.0",
+                "TOPO COTA": "-166.0",
+                "BASE": "580.0",
+                "BASE COTA": "-363."
+            },
+            "F MOTUCA ": {
+                "TOPO": "580.0",
+                "TOPO COTA": "-363.0",
+                "BASE": "808.0",
+                "BASE COTA": "-591."
+            },
+            "F PEDFOG ": {
+                "TOPO": "808.0",
+                "TOPO COTA": "-591.0",
+                "BASE": "1040.0",
+                "BASE COTA": "-823."
+            },
+            "F PIAUI  ": {
+                "TOPO": "1040.0",
+                "TOPO COTA": "-823.0",
+                "BASE": "1348.0",
+                "BASE COTA": "-1131."
+            },
+            "G CANIND ": {
+                "TOPO": "1348.0",
+                "TOPO COTA": "-1131.0",
+                "BASE": "2748.0",
+                "BASE COTA": "-2531."
+            },
+            "F POTI   ": {
+                "TOPO": "1348.0",
+                "TOPO COTA": "-1131.0",
+                "BASE": "1583.0",
+                "BASE COTA": "-1366."
+            },
+            "F LONGA  ": {
+                "TOPO": "1583.0",
+                "TOPO COTA": "-1366.0",
+                "BASE": "1794.0",
+                "BASE COTA": "-1577."
+            },
+            "F CABECA ": {
+                "TOPO": "1794.0",
+                "TOPO COTA": "-1577.0",
+                "BASE": "1912.0",
+                "BASE COTA": "-1695."
+            },
+            "F PIMENT ": {
+                "TOPO": "1912.0",
+                "TOPO COTA": "-1695.0",
+                "BASE": "2561.0",
+                "BASE COTA": "-2344."
+            },
+            "F ITAIM  ": {
+                "TOPO": "2561.0",
+                "TOPO COTA": "-2344.0",
+                "BASE": "2748.0",
+                "BASE COTA": "-2531."
+            },
+            "G SGRAND ": {
+                "TOPO": "2748.0",
+                "TOPO COTA": "-2531.0",
+                "BASE": "3229.0",
+                "BASE COTA": "-3012."
+            },
+            "F JAICOS ": {
+                "TOPO": "2748.0",
+                "TOPO COTA": "-2531.0",
+                "BASE": "2967.0",
+                "BASE COTA": "-2750."
+            },
+            "F TIANGU ": {
+                "TOPO": "2967.0",
+                "TOPO COTA": "-2750.0",
+                "BASE": "3101.0",
+                "BASE COTA": "-2884."
+            },
+            "F IPU   ": {
+                "TOPO": "3101.0",
+                "TOPO COTA": "-2884.0",
+                "BASE": "3229.0",
+                "BASE COTA": "-3012."
+            },
+            "B    EMBASA ": {
+                "TOPO": "3229.0",
+                "TOPO COTA": "-3012.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1VG  0001  MA",
+        "IDENTIFICADOR": "SB23T14SE10P35C",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-7.39589 (   -7  23 45.2)",
+        "LONGITUDE": "-46.62364 (  -46  37 25.1)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9182150.6S  320792.3W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "RIACHAO",
+        "CODIGO POCO": "000338",
+        "B.A.P": "396.0",
+        "P.F.SONDADOR": "1029.4",
+        "PROF.MX.PERF.": "724.0",
+        "METROS PERF.": "1029.4",
+        "MAIOR PROF.": "1029.4",
+        "INICIO": "18/01/53",
+        "TERMINO": "10/06/53",
+        "DATA LIB.SONDA": "10/06/53",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00004",
+        "SEDOC": "0006",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F POTI",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "VEREDA GRANDE.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "ABANDONADO - ACIDENTE MECANICO.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9182150.6S    320792.3W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9182150.6S   320792.3W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1VG  0001  MA": {
+            "F MOTUCA ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "396.0",
+                "BASE": "122.0",
+                "BASE COTA": "277."
+            },
+            "F PEDFOG ": {
+                "TOPO": "122.0",
+                "TOPO COTA": "277.0",
+                "BASE": "270.0",
+                "BASE COTA": "129."
+            },
+            "F PIAUI  ": {
+                "TOPO": "270.0",
+                "TOPO COTA": "129.0",
+                "BASE": "549.0",
+                "BASE COTA": "-150."
+            },
+            "F POTI   ": {
+                "TOPO": "549.0",
+                "TOPO COTA": "-150.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1FO  0001  MA",
+        "IDENTIFICADOR": "SC23B24NO01P85D",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-8.25972 (   -8  15 35.0)",
+        "LONGITUDE": "-46.23611 (  -46  14 10.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9086768.0S  363853.5W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "TEN  FRAGOSO",
+        "CODIGO POCO": "002283",
+        "B.A.P": "397.0",
+        "P.F.SONDADOR": "1643.8",
+        "PROF.MX.PERF.": "1644.8",
+        "METROS PERF.": "1644.8",
+        "MAIOR PROF.": "1644.8",
+        "INICIO": "09/06/65",
+        "TERMINO": "24/07/65",
+        "DATA LIB.SONDA": "02/08/65",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00209",
+        "SEDOC": "0061",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F RIACHA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "FAZENDA OURO.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9086768.0S    363853.5W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9086768.0S   363853.5W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1FO  0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "397.0",
+                "BASE": "38.0",
+                "BASE COTA": "362."
+            },
+            "F PIAUI  ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "397.0",
+                "BASE": "38.0",
+                "BASE COTA": "362."
+            },
+            "G CANIND ": {
+                "TOPO": "38.0",
+                "TOPO COTA": "362.0",
+                "BASE": "1170.0",
+                "BASE COTA": "-770."
+            },
+            "F POTI   ": {
+                "TOPO": "38.0",
+                "TOPO COTA": "362.0",
+                "BASE": "335.0",
+                "BASE COTA": "65."
+            },
+            "F LONGA  ": {
+                "TOPO": "335.0",
+                "TOPO COTA": "65.0",
+                "BASE": "465.0",
+                "BASE COTA": "-65."
+            },
+            "F CABECA ": {
+                "TOPO": "465.0",
+                "TOPO COTA": "-65.0",
+                "BASE": "580.0",
+                "BASE COTA": "-180."
+            },
+            "F PIMENT ": {
+                "TOPO": "580.0",
+                "TOPO COTA": "-180.0",
+                "BASE": "1000.0",
+                "BASE COTA": "-600."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1000.0",
+                "TOPO COTA": "-600.0",
+                "BASE": "1170.0",
+                "BASE COTA": "-770."
+            },
+            "G SGRAND ": {
+                "TOPO": "1170.0",
+                "TOPO COTA": "-770.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1170.0",
+                "TOPO COTA": "-770.0",
+                "BASE": "1433.0",
+                "BASE COTA": "-1033."
+            },
+            "F TIANGU ": {
+                "TOPO": "1433.0",
+                "TOPO COTA": "-1033.0",
+                "BASE": "1555.0",
+                "BASE COTA": "-1155."
+            },
+            "F IPU   ": {
+                "TOPO": "1555.0",
+                "TOPO COTA": "-1155.0",
+                "BASE": "1630.0",
+                "BASE COTA": "-1230."
+            },
+            "F RIACHA ": {
+                "TOPO": "1630.0",
+                "TOPO COTA": "-1230.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1TM  0001  MA",
+        "IDENTIFICADOR": "SC23B31SO67R33A",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-8.70833 (   -8  42 30.0)",
+        "LONGITUDE": "-46.90667 (  -46  54 24.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9036854.0S  290219.9W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "TEN  FRAGOSO",
+        "CODIGO POCO": "002549",
+        "B.A.P": "630.0",
+        "P.F.SONDADOR": "1688.4",
+        "PROF.MX.PERF.": "1690.3",
+        "METROS PERF.": "1690.3",
+        "MAIOR PROF.": "1690.3",
+        "INICIO": "06/05/66",
+        "TERMINO": "04/08/66",
+        "DATA LIB.SONDA": "11/08/66",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00228",
+        "SEDOC": "0077",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "EMBASA",
+        "NOME": "TEM MEDO.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9036854.0S    290219.9W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9036854.0S   290219.9W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1TM  0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "630.0",
+                "BASE": "273.0",
+                "BASE COTA": "361."
+            },
+            "F PEDFOG ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "630.0",
+                "BASE": "25.0",
+                "BASE COTA": "609."
+            },
+            "F PIAUI  ": {
+                "TOPO": "25.0",
+                "TOPO COTA": "609.0",
+                "BASE": "273.0",
+                "BASE COTA": "361."
+            },
+            "G CANIND ": {
+                "TOPO": "273.0",
+                "TOPO COTA": "361.0",
+                "BASE": "1312.0",
+                "BASE COTA": "-678."
+            },
+            "F POTI   ": {
+                "TOPO": "273.0",
+                "TOPO COTA": "361.0",
+                "BASE": "522.0",
+                "BASE COTA": "112."
+            },
+            "F LONGA  ": {
+                "TOPO": "522.0",
+                "TOPO COTA": "112.0",
+                "BASE": "639.0",
+                "BASE COTA": "-5."
+            },
+            "F CABECA ": {
+                "TOPO": "639.0",
+                "TOPO COTA": "-5.0",
+                "BASE": "771.0",
+                "BASE COTA": "-137."
+            },
+            "F PIMENT ": {
+                "TOPO": "771.0",
+                "TOPO COTA": "-137.0",
+                "BASE": "1140.0",
+                "BASE COTA": "-506."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1140.0",
+                "TOPO COTA": "-506.0",
+                "BASE": "1312.0",
+                "BASE COTA": "-678."
+            },
+            "G SGRAND ": {
+                "TOPO": "1312.0",
+                "TOPO COTA": "-678.0",
+                "BASE": "1685.0",
+                "BASE COTA": "-1051."
+            },
+            "F JAICOS ": {
+                "TOPO": "1312.0",
+                "TOPO COTA": "-678.0",
+                "BASE": "1500.0",
+                "BASE COTA": "-866."
+            },
+            "F TIANGU ": {
+                "TOPO": "1500.0",
+                "TOPO COTA": "-866.0",
+                "BASE": "1600.0",
+                "BASE COTA": "-966."
+            },
+            "F IPU   ": {
+                "TOPO": "1600.0",
+                "TOPO COTA": "-966.0",
+                "BASE": "1685.0",
+                "BASE COTA": "-1051."
+            },
+            "B    EMBASA ": {
+                "TOPO": "1685.0",
+                "TOPO COTA": "-1051.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2IZST0001  MA",
+        "IDENTIFICADOR": "SB23G41NO20D78D",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-5.52694 (   -5  31 37.0)",
+        "LONGITUDE": "-47.49027 (  -47  29 25.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9388503.0S  224077.4W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "IMPERATRIZ",
+        "CODIGO POCO": "001277",
+        "QUADRICULA": "50938822",
+        "MESA ROTATIVA": "119.0",
+        "B.A.P": "116.0",
+        "P.F.SONDADOR": "2176.8",
+        "PROF.MX.PERF.": "2178.1",
+        "METROS PERF.": "2176.8",
+        "MAIOR PROF.": "2178.1",
+        "INICIO": "19/12/60",
+        "TERMINO": "21/05/61",
+        "DATA LIB.SONDA": "25/05/61",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "15/12/60",
+        "CADASTRO": "00129",
+        "SEDOC": "0038",
+        "SONDA": "SC24",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "IMPERATRIZ.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9388503.0S    224077.4W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9388503.0S   224077.4W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2IZST0001  MA": {
+            "F ITAPEC ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "116.0",
+                "BASE": "27.0",
+                "BASE COTA": "92."
+            },
+            "F CODO   ": {
+                "TOPO": "27.0",
+                "TOPO COTA": "92.0",
+                "BASE": "55.0",
+                "BASE COTA": "64."
+            },
+            "F MOSQUI ": {
+                "TOPO": "55.0",
+                "TOPO COTA": "64.0",
+                "BASE": "273.0",
+                "BASE COTA": "-154."
+            },
+            "G BALSAS ": {
+                "TOPO": "273.0",
+                "TOPO COTA": "-154.0",
+                "BASE": "1282.0",
+                "BASE COTA": "-1163."
+            },
+            "F SAMBAI ": {
+                "TOPO": "273.0",
+                "TOPO COTA": "-154.0",
+                "BASE": "705.0",
+                "BASE COTA": "-586."
+            },
+            "F MOTUCA ": {
+                "TOPO": "705.0",
+                "TOPO COTA": "-586.0",
+                "BASE": "895.0",
+                "BASE COTA": "-776."
+            },
+            "F PEDFOG ": {
+                "TOPO": "895.0",
+                "TOPO COTA": "-776.0",
+                "BASE": "1065.0",
+                "BASE COTA": "-946."
+            },
+            "F PIAUI  ": {
+                "TOPO": "1065.0",
+                "TOPO COTA": "-946.0",
+                "BASE": "1282.0",
+                "BASE COTA": "-1163."
+            },
+            "G CANIND ": {
+                "TOPO": "1282.0",
+                "TOPO COTA": "-1163.0",
+                "BASE": "1971.0",
+                "BASE COTA": "-1852."
+            },
+            "F POTI   ": {
+                "TOPO": "1282.0",
+                "TOPO COTA": "-1163.0",
+                "BASE": "1434.0",
+                "BASE COTA": "-1315."
+            },
+            "F LONGA  ": {
+                "TOPO": "1434.0",
+                "TOPO COTA": "-1315.0",
+                "BASE": "1565.0",
+                "BASE COTA": "-1446."
+            },
+            "F CABECA ": {
+                "TOPO": "1565.0",
+                "TOPO COTA": "-1446.0",
+                "BASE": "1654.0",
+                "BASE COTA": "-1535."
+            },
+            "F PIMENT ": {
+                "TOPO": "1654.0",
+                "TOPO COTA": "-1535.0",
+                "BASE": "1835.0",
+                "BASE COTA": "-1716."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1835.0",
+                "TOPO COTA": "-1716.0",
+                "BASE": "1971.0",
+                "BASE COTA": "-1852."
+            },
+            "G SGRAND ": {
+                "TOPO": "1971.0",
+                "TOPO COTA": "-1852.0",
+                "BASE": "2150.0",
+                "BASE COTA": "-2031."
+            },
+            "F JAICOS ": {
+                "TOPO": "1971.0",
+                "TOPO COTA": "-1852.0",
+                "BASE": "2094.0",
+                "BASE COTA": "-1975."
+            },
+            "F TIANGU ": {
+                "TOPO": "2094.0",
+                "TOPO COTA": "-1975.0",
+                "BASE": "2150.0",
+                "BASE COTA": "-2031."
+            },
+            "B    EMBASA ": {
+                "TOPO": "2150.0",
+                "TOPO COTA": "-2031.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1BO  0001  MA",
+        "IDENTIFICADOR": "SA23P13SE27T39B",
+        "BACIA": "SAO LUIZ",
+        "LATITUDE": "-2.40833 (   -2  24 30.0)",
+        "LONGITUDE": "-44.77500 (  -44  46 30.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9733800.2S  525015.9W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "BEQUIM",
+        "CODIGO POCO": "000759",
+        "B.A.P": "12.7",
+        "P.F.SONDADOR": "3386.5",
+        "PROF.MX.PERF.": "3388.8",
+        "METROS PERF.": "3388.8",
+        "MAIOR PROF.": "3388.8",
+        "INICIO": "09/09/58",
+        "TERMINO": "06/04/59",
+        "DATA LIB.SONDA": "12/04/59",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00053",
+        "SEDOC": "0018",
+        "SONDA": "SC29",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "BEQUIMAO.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9733800.2S    525015.9W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9733800.2S   525015.9W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1BO  0001  MA": {
+            "B  ALBIANO  ": {
+                "TOPO": "4.8",
+                "TOPO COTA": "13.2",
+                "BASE": "766.0",
+                "BASE COTA": "-748."
+            },
+            "F ITAPEC ": {
+                "TOPO": "4.8",
+                "TOPO COTA": "13.2",
+                "BASE": "1443.0",
+                "BASE COTA": "-1425."
+            },
+            "B  CRET.INF ": {
+                "TOPO": "766.0",
+                "TOPO COTA": "-748.0",
+                "BASE": "3388.4",
+                "BASE COTA": "-3370."
+            },
+            "F CODO   ": {
+                "TOPO": "1443.0",
+                "TOPO COTA": "-1425.0",
+                "BASE": "1674.0",
+                "BASE COTA": "-1656."
+            },
+            "F BRAGAN ": {
+                "TOPO": "1674.0",
+                "TOPO COTA": "-1656.0",
+                "BASE": "3345.0",
+                "BASE COTA": "-3327."
+            },
+            "R    EMBASA ": {
+                "TOPO": "3345.0",
+                "TOPO COTA": "-3327.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1NL  0002  PI",
+        "IDENTIFICADOR": "SB23L32NE75F63C",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-5.59167 (   -5  35 30.0)",
+        "LONGITUDE": "-42.56167 (  -42  33 42.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9381366.0S  770134.1W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "PI",
+        "MUNICIPIO": "TERESINA",
+        "CODIGO POCO": "001734",
+        "B.A.P": "157.0",
+        "P.F.SONDADOR": "1320.2",
+        "PROF.MX.PERF.": "1319.5",
+        "METROS PERF.": "1320.2",
+        "MAIOR PROF.": "1320.2",
+        "INICIO": "24/12/62",
+        "TERMINO": "07/05/63",
+        "DATA LIB.SONDA": "15/05/63",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00163",
+        "SEDOC": "0053",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "F ITAIM",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "NATAL.2",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9381366.0S    770134.1W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9381366.0S   770134.1W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1NL  0002  PI": {
+            "G CANIND ": {
+                "TOPO": "5.0",
+                "TOPO COTA": "156.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F POTI   ": {
+                "TOPO": "5.0",
+                "TOPO COTA": "156.0",
+                "BASE": "223.0",
+                "BASE COTA": "-62."
+            },
+            "F LONGA  ": {
+                "TOPO": "223.0",
+                "TOPO COTA": "-62.0",
+                "BASE": "497.0",
+                "BASE COTA": "-336."
+            },
+            "F CABECA ": {
+                "TOPO": "497.0",
+                "TOPO COTA": "-336.0",
+                "BASE": "1000.0",
+                "BASE COTA": "-839."
+            },
+            "F PIMENT ": {
+                "TOPO": "1000.0",
+                "TOPO COTA": "-839.0",
+                "BASE": "1297.0",
+                "BASE COTA": "-1136."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1297.0",
+                "TOPO COTA": "-1136.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1MA  0002  PI",
+        "IDENTIFICADOR": "SB23F33NE77Y57D",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-4.84889 (   -4  50 56.0)",
+        "LONGITUDE": "-42.77556 (  -42  46 32.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9463628.4S  746716.2W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "PI",
+        "MUNICIPIO": "JOSE FREITAS",
+        "CODIGO POCO": "001851",
+        "B.A.P": "106.0",
+        "P.F.SONDADOR": "2029.2",
+        "PROF.MX.PERF.": "2029.0",
+        "METROS PERF.": "2366.9",
+        "MAIOR PROF.": "2029.3",
+        "INICIO": "11/07/63",
+        "TERMINO": "13/07/64",
+        "DATA LIB.SONDA": "28/07/64",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00172",
+        "SEDOC": "0061",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "MERUOCA.2",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9463628.4S    746716.2W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9463628.4S   746716.2W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1MA  0002  PI": {
+            "G BALSAS ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "106.0",
+                "BASE": "164.0",
+                "BASE COTA": "-54."
+            },
+            "F PIAUI  ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "106.0",
+                "BASE": "164.0",
+                "BASE COTA": "-54."
+            },
+            "G CANIND ": {
+                "TOPO": "164.0",
+                "TOPO COTA": "-54.0",
+                "BASE": "1484.0",
+                "BASE COTA": "-1374."
+            },
+            "F POTI   ": {
+                "TOPO": "164.0",
+                "TOPO COTA": "-54.0",
+                "BASE": "402.0",
+                "BASE COTA": "-292."
+            },
+            "F LONGA  ": {
+                "TOPO": "402.0",
+                "TOPO COTA": "-292.0",
+                "BASE": "520.0",
+                "BASE COTA": "-410."
+            },
+            "F CABECA ": {
+                "TOPO": "520.0",
+                "TOPO COTA": "-410.0",
+                "BASE": "1048.0",
+                "BASE COTA": "-938."
+            },
+            "F PIMENT ": {
+                "TOPO": "1048.0",
+                "TOPO COTA": "-938.0",
+                "BASE": "1329.0",
+                "BASE COTA": "-1219."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1329.0",
+                "TOPO COTA": "-1219.0",
+                "BASE": "1484.0",
+                "BASE COTA": "-1374."
+            },
+            "G SGRAND ": {
+                "TOPO": "1484.0",
+                "TOPO COTA": "-1374.0",
+                "BASE": "2011.0",
+                "BASE COTA": "-1901."
+            },
+            "F JAICOS ": {
+                "TOPO": "1484.0",
+                "TOPO COTA": "-1374.0",
+                "BASE": "1754.0",
+                "BASE COTA": "-1644."
+            },
+            "F TIANGU ": {
+                "TOPO": "1754.0",
+                "TOPO COTA": "-1644.0",
+                "BASE": "1928.0",
+                "BASE COTA": "-1818."
+            },
+            "F IPU   ": {
+                "TOPO": "1928.0",
+                "TOPO COTA": "-1818.0",
+                "BASE": "2011.0",
+                "BASE COTA": "-1901."
+            },
+            "B    EMBASA ": {
+                "TOPO": "2011.0",
+                "TOPO COTA": "-1901.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1TB  0002  MA",
+        "IDENTIFICADOR": "SB23T24SE44J45B",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-7.42861 (   -7  25 43.0)",
+        "LONGITUDE": "-46.06361 (  -46   3 49.0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9178719.2S  382622.3W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "BALSAS",
+        "CODIGO POCO": "001853",
+        "B.A.P": "284.0",
+        "P.F.SONDADOR": "1603.0",
+        "PROF.MX.PERF.": "1603.7",
+        "METROS PERF.": "1603.7",
+        "MAIOR PROF.": "1603.7",
+        "INICIO": "16/07/63",
+        "TERMINO": "27/09/63",
+        "DATA LIB.SONDA": "03/10/63",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "CADASTRO": "00173",
+        "SEDOC": "0053",
+        "SONDA": "SC24",
+        "FORMACAO P.F.": "F ITAIM",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "TESTA BRANCA.2",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9178719.2S    382622.3W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9178719.2S   382622.3W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1TB  0002  MA": {
+            "G BALSAS ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "284.0",
+                "BASE": "463.0",
+                "BASE COTA": "-175."
+            },
+            "F MOTUCA ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "284.0",
+                "BASE": "6.0",
+                "BASE COTA": "282."
+            },
+            "F PEDFOG ": {
+                "TOPO": "6.0",
+                "TOPO COTA": "282.0",
+                "BASE": "152.0",
+                "BASE COTA": "136."
+            },
+            "F PIAUI  ": {
+                "TOPO": "152.0",
+                "TOPO COTA": "136.0",
+                "BASE": "463.0",
+                "BASE COTA": "-175."
+            },
+            "G CANIND ": {
+                "TOPO": "463.0",
+                "TOPO COTA": "-175.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F POTI   ": {
+                "TOPO": "463.0",
+                "TOPO COTA": "-175.0",
+                "BASE": "704.0",
+                "BASE COTA": "-416."
+            },
+            "F LONGA  ": {
+                "TOPO": "704.0",
+                "TOPO COTA": "-416.0",
+                "BASE": "813.0",
+                "BASE COTA": "-525."
+            },
+            "F CABECA ": {
+                "TOPO": "813.0",
+                "TOPO COTA": "-525.0",
+                "BASE": "928.0",
+                "BASE COTA": "-640."
+            },
+            "F PIMENT ": {
+                "TOPO": "928.0",
+                "TOPO COTA": "-640.0",
+                "BASE": "1428.0",
+                "BASE COTA": "-1140."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1428.0",
+                "TOPO COTA": "-1140.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1CL  0001  MA",
+        "IDENTIFICADOR": "SB23S23NO73L71B",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-7.34428 (   -7  20 39.4)",
+        "LONGITUDE": "-47.45955 (  -47  27 34.4)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9187437.7S  228451.6W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "CAROLINA",
+        "CODIGO POCO": "000254",
+        "B.A.P": "172.5",
+        "P.F.SONDADOR": "1170.0",
+        "PROF.MX.PERF.": "1169.0",
+        "METROS PERF.": "1170.0",
+        "MAIOR PROF.": "1170.0",
+        "INICIO": "23/07/51",
+        "TERMINO": "22/09/51",
+        "DATA LIB.SONDA": "22/09/51",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00002",
+        "SEDOC": "0004",
+        "SONDA": "SC15",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "CAROLINA.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9187437.7S    228451.6W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9187437.7S   228451.6W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1CL  0001  MA": {
+            "G BALSAS ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "172.5",
+                "BASE": "315.0",
+                "BASE COTA": "-138."
+            },
+            "F PEDFOG ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "172.5",
+                "BASE": "139.0",
+                "BASE COTA": "37."
+            },
+            "F PIAUI  ": {
+                "TOPO": "139.0",
+                "TOPO COTA": "37.5",
+                "BASE": "315.0",
+                "BASE COTA": "-138."
+            },
+            "G CANIND ": {
+                "TOPO": "315.0",
+                "TOPO COTA": "-138.5",
+                "BASE": "1016.0",
+                "BASE COTA": "-839."
+            },
+            "F POTI   ": {
+                "TOPO": "315.0",
+                "TOPO COTA": "-138.5",
+                "BASE": "490.0",
+                "BASE COTA": "-313."
+            },
+            "F LONGA  ": {
+                "TOPO": "490.0",
+                "TOPO COTA": "-313.5",
+                "BASE": "620.0",
+                "BASE COTA": "-443."
+            },
+            "F CABECA ": {
+                "TOPO": "620.0",
+                "TOPO COTA": "-443.5",
+                "BASE": "683.0",
+                "BASE COTA": "-506."
+            },
+            "F PIMENT ": {
+                "TOPO": "683.0",
+                "TOPO COTA": "-506.5",
+                "BASE": "856.0",
+                "BASE COTA": "-679."
+            },
+            "F ITAIM  ": {
+                "TOPO": "856.0",
+                "TOPO COTA": "-679.5",
+                "BASE": "1016.0",
+                "BASE COTA": "-839."
+            },
+            "G SGRAND ": {
+                "TOPO": "1016.0",
+                "TOPO COTA": "-839.5",
+                "BASE": "1160.0",
+                "BASE COTA": "-983."
+            },
+            "F JAICOS ": {
+                "TOPO": "1016.0",
+                "TOPO COTA": "-839.5",
+                "BASE": "1160.0",
+                "BASE COTA": "-983."
+            },
+            "B    EMBASA ": {
+                "TOPO": "1160.0",
+                "TOPO COTA": "-983.5",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "2PMST0001  MA",
+        "IDENTIFICADOR": "SA23U41SO07T39B",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-3.63333 (   -3  37 60.0)",
+        "LONGITUDE": "-45.40000 (  -45  24   .0)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9598387.8S  455576.7W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "PINDAREMIRIM",
+        "CODIGO POCO": "000702",
+        "B.A.P": "38.2",
+        "P.F.SONDADOR": "2163.8",
+        "PROF.MX.PERF.": "2163.7",
+        "METROS PERF.": "2163.8",
+        "MAIOR PROF.": "2163.8",
+        "INICIO": "10/04/58",
+        "TERMINO": "17/07/58",
+        "DATA LIB.SONDA": "25/07/58",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "DATA APROV.LOC",
+        "CADASTRO": "00037",
+        "SEDOC": "0014",
+        "SONDA": "SC30",
+        "FORMACAO P.F.": "EMBASA",
+        "CONTR. RISCO": "DOC.APROV.LOC.",
+        "NOME": "PINDARE MIRIM.1",
+        "CLASSIFICACAO": "ESTRATIGRAFICO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9598387.8S    455576.7W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9598387.8S   455576.7W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "2PMST0001  MA": {
+            "F ITAPEC ": {
+                "TOPO": "3.0",
+                "TOPO COTA": "38.1",
+                "BASE": "435.0",
+                "BASE COTA": "-393."
+            },
+            "F CODO   ": {
+                "TOPO": "435.0",
+                "TOPO COTA": "-393.9",
+                "BASE": "587.0",
+                "BASE COTA": "-545."
+            },
+            "F GRAJAU ": {
+                "TOPO": "587.0",
+                "TOPO COTA": "-545.9",
+                "BASE": "645.0",
+                "BASE COTA": "-603."
+            },
+            "G BALSAS ": {
+                "TOPO": "645.0",
+                "TOPO COTA": "-603.9",
+                "BASE": "853.0",
+                "BASE COTA": "-811."
+            },
+            "F PIAUI  ": {
+                "TOPO": "645.0",
+                "TOPO COTA": "-603.9",
+                "BASE": "853.0",
+                "BASE COTA": "-811."
+            },
+            "G CANIND ": {
+                "TOPO": "853.0",
+                "TOPO COTA": "-811.9",
+                "BASE": "1789.0",
+                "BASE COTA": "-1747."
+            },
+            "F POTI   ": {
+                "TOPO": "853.0",
+                "TOPO COTA": "-811.9",
+                "BASE": "1050.0",
+                "BASE COTA": "-1008."
+            },
+            "F LONGA  ": {
+                "TOPO": "1050.0",
+                "TOPO COTA": "-1008.9",
+                "BASE": "1139.0",
+                "BASE COTA": "-1097."
+            },
+            "F CABECA ": {
+                "TOPO": "1139.0",
+                "TOPO COTA": "-1097.9",
+                "BASE": "1325.0",
+                "BASE COTA": "-1283."
+            },
+            "F PIMENT ": {
+                "TOPO": "1325.0",
+                "TOPO COTA": "-1283.9",
+                "BASE": "1650.0",
+                "BASE COTA": "-1608."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1650.0",
+                "TOPO COTA": "-1608.9",
+                "BASE": "1789.0",
+                "BASE COTA": "-1747."
+            },
+            "G SGRAND ": {
+                "TOPO": "1789.0",
+                "TOPO COTA": "-1747.9",
+                "BASE": "2128.0",
+                "BASE COTA": "-2086."
+            },
+            "F JAICOS ": {
+                "TOPO": "1789.0",
+                "TOPO COTA": "-1747.9",
+                "BASE": "1920.0",
+                "BASE COTA": "-1878."
+            },
+            "F TIANGU ": {
+                "TOPO": "1920.0",
+                "TOPO COTA": "-1878.9",
+                "BASE": "2045.0",
+                "BASE COTA": "-2003."
+            },
+            "F IPU   ": {
+                "TOPO": "2045.0",
+                "TOPO COTA": "-2003.9",
+                "BASE": "2128.0",
+                "BASE COTA": "-2086."
+            },
+            "B    EMBASA ": {
+                "TOPO": "2128.0",
+                "TOPO COTA": "-2086.9",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1AT  0001  MA",
+        "IDENTIFICADOR": "SA23O34SE33T96D",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-2.92241 (   -2  55 20.7)",
+        "LONGITUDE": "-45.57587 (  -45  34 33.1)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9676963.0S  435999.0W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "MA",
+        "MUNICIPIO": "PINHEIRO",
+        "CODIGO POCO": "010558",
+        "QUADRICULA": "99967643",
+        "MESA ROTATIVA": "30.0",
+        "B.A.P": "26.0",
+        "P.F.SONDADOR": "1200.0",
+        "PROF.MX.PERF.": "1183.2",
+        "METROS PERF.": "1200.0",
+        "MAIOR PROF.": "1200.0",
+        "INICIO": "20/10/84",
+        "TERMINO": "03/11/84",
+        "DATA LIB.SONDA": "04/11/84",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "31/05/84",
+        "CADASTRO": "00524",
+        "SEDOC": "0633",
+        "SONDA": "ST-3",
+        "FORMACAO P.F.": "EMBASA",
+        "TERRA / MAR": "TERRA",
+        "ACS RISCO": "10",
+        "CONTR. RISCO": "ESSO",
+        "DOC.APROV.LOC.": "SUPEX-5175/1984",
+        "NOME": "ALTO TURI.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9676963.0S    435999.0W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9676963.0S   435999.0W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "INF. INEXISTENTE",
+        "DIRECIONAL?": "VERTICAL",
+        "1AT  0001  MA": {
+            "F ITAPEC ": {
+                "TOPO": "4.0",
+                "TOPO COTA": "26.0",
+                "BASE": "518.0",
+                "BASE COTA": "-488."
+            },
+            "F CODO   ": {
+                "TOPO": "518.0",
+                "TOPO COTA": "-488.0",
+                "BASE": "665.0",
+                "BASE COTA": "-635."
+            },
+            "F GRAJAU ": {
+                "TOPO": "665.0",
+                "TOPO COTA": "-635.0",
+                "BASE": "695.0",
+                "BASE COTA": "-665."
+            },
+            "G CANIND ": {
+                "TOPO": "695.0",
+                "TOPO COTA": "-665.0",
+                "BASE": "955.0",
+                "BASE COTA": "-925."
+            },
+            "F PIMENT ": {
+                "TOPO": "695.0",
+                "TOPO COTA": "-665.0",
+                "BASE": "855.0",
+                "BASE COTA": "-825."
+            },
+            "F ITAIM  ": {
+                "TOPO": "855.0",
+                "TOPO COTA": "-825.0",
+                "BASE": "955.0",
+                "BASE COTA": "-925."
+            },
+            "G SGRAND ": {
+                "TOPO": "955.0",
+                "TOPO COTA": "-925.0",
+                "BASE": "1176.0",
+                "BASE COTA": "-1146."
+            },
+            "F JAICOS ": {
+                "TOPO": "955.0",
+                "TOPO COTA": "-925.0",
+                "BASE": "1047.0",
+                "BASE COTA": "-1017."
+            },
+            "F TIANGU ": {
+                "TOPO": "1047.0",
+                "TOPO COTA": "-1017.0",
+                "BASE": "1145.0",
+                "BASE COTA": "-1115."
+            },
+            "F IPU   ": {
+                "TOPO": "1145.0",
+                "TOPO COTA": "-1115.0",
+                "BASE": "1176.0",
+                "BASE COTA": "-1146."
+            },
+            "B    EMBASA ": {
+                "TOPO": "1176.0",
+                "TOPO COTA": "-1146.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    },
+    {
+        "POCO": "1GI  0001  PA",
+        "IDENTIFICADOR": "SA23S24SE57J02C",
+        "BACIA": "PARNAIBA",
+        "LATITUDE": "-3.44017 (   -3  26 24.6)",
+        "LONGITUDE": "-47.02699 (  -47   1 37.2)",
+        "MERID.CENTRAL": "- 45",
+        "COORD.UTM FUNDO": "9619509.6S  274794.1W",
+        "DISTRITO": "E&P-AM",
+        "ESTADO": "PA",
+        "MUNICIPIO": "PARAGOMINAS",
+        "CODIGO POCO": "009425",
+        "B.A.P": "94.0",
+        "P.F.SONDADOR": "2359.0",
+        "PROF.MX.PERF.": "2357.0",
+        "METROS PERF.": "2359.0",
+        "MAIOR PROF.": "2359.0",
+        "INICIO": "14/09/83",
+        "TERMINO": "02/11/83",
+        "DATA LIB.SONDA": "06/11/83",
+        "ULT.RECLASSIF.": "LOCACAO",
+        "SITUACAO LOC.": "CONCLUIDO",
+        "DATA APROV.LOC": "29/07/83",
+        "CADASTRO": "00500",
+        "SEDOC": "0320",
+        "SONDA": "SC96",
+        "FORMACAO P.F.": "F IPU",
+        "NOME": "GURUPI.1",
+        "CLASSIFICACAO": "PIONEIRO",
+        "RECLASSIFICACAO": "SECO SEM INDICACAO DE H.C.",
+        "MC C.UTM BASE": "- 45",
+        "COORD.UTM BASE": "9619509.6S    274794.1W",
+        "MC LOCACAO": "- 45",
+        "COORD.UTM LOC.": "9619509.6S   274794.1W",
+        "DATUM LOCACAO": "SAD-69",
+        "EMPR. OPER.1/2": "PETROBRAS",
+        "DIRECIONAL?": "VERTICAL",
+        "1GI  0001  PA": {
+            "F ITAPEC ": {
+                "TOPO": "6.0",
+                "TOPO COTA": "94.0",
+                "BASE": "547.0",
+                "BASE COTA": "-447."
+            },
+            "F CODO   ": {
+                "TOPO": "547.0",
+                "TOPO COTA": "-447.0",
+                "BASE": "784.0",
+                "BASE COTA": "-684."
+            },
+            "G CANIND ": {
+                "TOPO": "784.0",
+                "TOPO COTA": "-684.0",
+                "BASE": "1905.0",
+                "BASE COTA": "-1805."
+            },
+            "F POTI   ": {
+                "TOPO": "784.0",
+                "TOPO COTA": "-684.0",
+                "BASE": "923.0",
+                "BASE COTA": "-823."
+            },
+            "F LONGA  ": {
+                "TOPO": "923.0",
+                "TOPO COTA": "-823.0",
+                "BASE": "1084.0",
+                "BASE COTA": "-984."
+            },
+            "F CABECA ": {
+                "TOPO": "1084.0",
+                "TOPO COTA": "-984.0",
+                "BASE": "1203.0",
+                "BASE COTA": "-1103."
+            },
+            "F PIMENT ": {
+                "TOPO": "1203.0",
+                "TOPO COTA": "-1103.0",
+                "BASE": "1753.0",
+                "BASE COTA": "-1653."
+            },
+            "F ITAIM  ": {
+                "TOPO": "1753.0",
+                "TOPO COTA": "-1653.0",
+                "BASE": "1905.0",
+                "BASE COTA": "-1805."
+            },
+            "G SGRAND ": {
+                "TOPO": "1905.0",
+                "TOPO COTA": "-1805.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            },
+            "F JAICOS ": {
+                "TOPO": "1905.0",
+                "TOPO COTA": "-1805.0",
+                "BASE": "2170.0",
+                "BASE COTA": "-2070."
+            },
+            "F TIANGU ": {
+                "TOPO": "2170.0",
+                "TOPO COTA": "-2070.0",
+                "BASE": "2313.0",
+                "BASE COTA": "-2213."
+            },
+            "F IPU   ": {
+                "TOPO": "2313.0",
+                "TOPO COTA": "-2213.0",
+                "BASE": "null",
+                "BASE COTA": "null"
+            }
+        }
+    }
+]
