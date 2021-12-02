@@ -10,3 +10,5 @@ Minimal project, with the basics.
 # 02_JSON_to_Folium.ipynb
 
 Loading JSON data to the map.
+Also creating a custom **html div**.
+Creating features groups
