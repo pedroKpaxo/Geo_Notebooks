@@ -20,3 +20,11 @@ Reading .shp files, exploring the geometry colund among other themes
 
 
 [Geopandas](./IntroGeopandas)
+
+## Seismic Data
+
+Notebooks involving the seismic data files.
+Reading .segy files and exploring some possibilities 
+using matplotlib.
+
+[Seismic Notebooks](./SeismicData)
